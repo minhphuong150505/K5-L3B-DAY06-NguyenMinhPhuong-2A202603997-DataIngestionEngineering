@@ -1,0 +1,2779 @@
+# Corpus đã xử lý: sach-trang-tmdt-2023 (data/BCTMDT2023-file-31-1-pdf.pdf)
+# 100 trang PDF, 81 trang được tính là nội dung.
+# Nguồn: results/pages.jsonl (src.ingestion: pypdf + NFC + bỏ header/footer + ghép biểu đồ/OCR)
+
+================================================================================
+TRANG 1 | section=- | mode=plain | 85 ký tự | LOẠI
+================================================================================
+BỘ CÔNG THƯƠNG
+CỤC THƯƠNG MẠI ĐIỆN TỬ VÀ KINH TẾ SỐ
+
+THƯƠNG MẠI ĐIỆN TỬ
+VIỆT NAM 2023
+
+================================================================================
+TRANG 2 | section=- | mode=plain | 0 ký tự | LOẠI
+================================================================================
+(trang trống)
+
+================================================================================
+TRANG 3 | section=gioi_thieu | mode=plain | 2079 ký tự | TÍNH
+================================================================================
+LỜI GIỚI THIỆU
+Kinh tế Việt Nam 2023 duy trì xu hướng phục hồi, tiếp tục là điểm sáng của kinh tế toàn cầu (theo Cổng
+Thông tin điện tử Chính phủ). Kinh tế vĩ mô cơ bản ổn định; lạm phát thấp hơn mục tiêu Quốc hội đề ra; nợ
+công, nợ Chính phủ, nợ nước ngoài, bội chi ngân sách nhà nước được kiểm soát; tăng trưởng được thúc đẩy;
+các cân đối lớn của nền kinh tế được bảo đảm. Tăng trưởng GDP cả năm khoảng 5% thuộc nhóm các nước tăng
+trưởng cao trong khu vực và thế giới.
+Trong bức tranh tổng thể về kinh tế Việt Nam, thương mại điện tử tiếp tục khẳng định vị trí là một trong
+những lĩnh vực tiên phong của nền kinh tế số. Năm 2023, quy mô thị trường thương mại điện tử bán lẻ Việt
+Nam đạt 20,5 tỷ USD, tăng khoảng 4 tỷ USD (tương đương 25%) so với năm 2022. Tốc độ tăng trưởng thương
+mại điện tử của Việt Nam được xếp vào nhóm 10 quốc gia có tốc độ tăng trưởng thương mại điện tử hàng đầu
+thế giới (tính đến tháng 12/2023 theo Statista).
+Nhằm tổng kết tình hình, đồng thời, đánh giá sơ bộ kết quả thực hiện một số mục tiêu phát triển thương
+mại điện tử được đặt ra tại Quyết định số 645/QĐ-TTg ngày 15 tháng 5 năm 2020 của Thủ tướng Chính phủ phê
+duyệt Kế hoạch tổng thể phát triển thương mại điện tử quốc gia giai đoạn 2021 – 2025, Cục Thương mại điện
+tử và Kinh tế số - Bộ Công Thương tiếp tục xây dựng và công bố Sách trắng Thương mại điện tử Việt Nam năm
+2023 với số liệu được tổng hợp kết quả điều tra của khoảng 20.000 cá nhân người tiêu dùng, gần 7.500 doanh
+nghiệp và các dữ liệu tin cậy khác. Sách trắng được kỳ vọng sẽ tiếp tục là một tài liệu quan trọng cho các nhà
+kinh doanh, chuyên gia kinh tế và những ai quan tâm đến lĩnh vực thương mại điện tử. Bằng cách cung cấp các
+số liệu, sách trắng sẽ giúp độc giả hiểu rõ hơn về tình hình thương mại điện tử tại Việt Nam.
+Chúng tôi luôn trân trọng mọi ý kiến đóng góp để ấn phẩm này ngày càng được hoàn thiện, phong phú
+hơn. Chúng tôi biết ơn sự hợp tác cung cấp thông tin của các cá nhân, tổ chức đã tham gia cuộc điều tra và bổ
+sung nội dung phục vụ ấn phẩm.
+Cục Thương mại điện tử và Kinh tế số
+Xin trân trọng cảm ơn./.
+
+================================================================================
+TRANG 4 | section=- | mode=plain | 4344 ký tự | LOẠI
+================================================================================
+MỤC LỤC
+LỜI GIỚI THIỆU ............................................................................................................................... 3
+CHƯƠNG I: CẬP NHẬT CHÍNH SÁCH PHÁP LUẬT VÀ TÌNH HÌNH QUẢN LÝ HOẠT ĐỘNG TMĐT TẠI
+VIỆT NAM .............................................................................................................................................. 9
+I. CẬP NHẬT MỘT SỐ CHÍNH SÁCH PHÁP LUẬT LIÊN QUAN ĐẾN THƯƠNG MẠI ĐIỆN TỬ ...........................................10
+1. Luật Bảo vệ quyền lợi người tiêu dùng (sửa đổi)............................................................................................................................................. 10
+2. Luật Giao dịch điện tử (sửa đổi) .............................................................................................................................................................................14
+3. Nghị định số 91/2022/NĐ-CP ngày 30 tháng 10 năm 2022 của Chính phủ ..........................................................................................19
+4. Nghị định số 13/2023/NĐ-CP ngày 17 tháng 4 năm 2023 của Chính phủ ............................................................................................ 20
+5. Chỉ thị số 18/CT-TTg ngày 30 tháng 5 năm 2023 của Thủ tướng Chính phủ ........................................................................................24
+II. THÔNG TIN QUẢN LÝ HOẠT ĐỘNG THƯƠNG MẠI ĐIỆN TỬ ........................................................................................26
+CHƯƠNG II: TỔNG QUAN THƯƠNG MẠI ĐIỆN TỬ THẾ GIỚI VÀ KHU VỰC ĐÔNG NAM Á ........... 27
+I. THƯƠNG MẠI ĐIỆN TỬ THẾ GIỚI ....................................................................................................................................28
+1. Tình hình sử dụng Internet và tham gia TMĐT toàn cầu ............................................................................................................................28
+2. Quy mô thị trường TMĐT B2C toàn cầu .............................................................................................................................................................30
+II.QUY MÔ KINH TẾ INTERNET ĐÔNG NAM Á .................................................................................................................. 34
+1. Quy mô kinh tế Internet phân theo lịch vực......................................................................................................................................................34
+2. Quy mô nền kinh tế Internet phân theo quốc gia năm 2023 ....................................................................................................................34
+3. Indonesia ....................................................................................................................................................................................................................... 35
+4. Philippines .................................................................................................................................................................................................................... 35
+5. Thái Lan .......................................................................................................................................................................................................................... 36
+6. Malaysia ..........................................................................................................................................................................................................................36
+7. Singapore .......................................................................................................................................................................................................................37
+8. Việt Nam ..........................................................................................................................................................................................................................37
+CHƯƠNG III: NGƯỜI TIÊU DÙNG THAM GIA THƯƠNG MẠI ĐIỆN TỬ ............................................39
+I. QUY MÔ THỊ TRƯỜNG THƯƠNG MẠI ĐIỆN TỬ BÁN LẺ TẠI VIỆT NAM ........................................................................40
+
+================================================================================
+TRANG 5 | section=- | mode=plain | 4746 ký tự | LOẠI
+================================================================================
+II. THÔNG TIN CHUNG VỀ KHẢO SÁT CỘNG ĐỒNG NGƯỜI TIÊU DÙNG ........................................................................41
+1. Độ tuổi người tham gia khảo sát .......................................................................................................................................................................... 41
+2. Nhóm nghề nghiệp của người tham gia khảo sát ..........................................................................................................................................41
+III. TÌNH HÌNH SỬ DỤNG INTERNET ...................................................................................................................................42
+1. Phương tiện truy cập Internet của người dân ..................................................................................................................................................42
+2. Thời lượng truy cập Internet trung bình mỗi ngày ........................................................................................................................................42
+3. Mục đích sử dụng Internet ......................................................................................................................................................................................43
+IV. TÌNH HÌNH THAM GIA MUA SẮM TRỰC TUYẾN ...........................................................................................................43
+1. Phương thức mua sắm người tiêu dùng ưu tiên lựa chọn ...........................................................................................................................43
+2. Tỷ lệ người dùng Internet tham gia mua sắm trực tuyến...............................................................................................................................44
+3. Cách thức tìm kiếm thông tin khi mua hàng trực tuyến.................................................................................................................................44
+4. Phương tiện điện tử thường được sử dụng để đặt hàng trực tuyến .......................................................................................................45
+5. Loại hàng hóa, dịch vụ thường được mua trên mạng ................................................................................................................................. 45
+6. Các kênh mua sắm trực tuyến người tiêu dùng ưa chuộng năm 2023 ..................................................................................................46
+7. Hình thức thanh toán phổ biến ...........................................................................................................................................................................47
+8. Số lượng hàng hóa/dịch vụ mua sắm trực tuyến trung bình của một người trong năm ................................................................48
+9. Giá trị hàng hóa mua sắm trực tuyến của một người trong năm ...........................................................................................................48
+10. Ước tính giá trị mua sắm trực tuyến trong tổng chi tiêu............................................................................................................................48
+11. Tỷ lệ người tiêu dùng mua hàng qua các website TMĐT nước ngoài.................................................................................................... 49
+12. Tỷ lệ người tiêu dùng mua hàng của người bán nước ngoài trên sàn giao dịch TMĐT Việt Nam..................................................49
+13. Ước tính số lượng hàng hóa/dịch vụ người tiêu dùng đã mua qua mạng từ thương nhân nước ngoài .................................50
+14. Ước tính giá trị mua hàng hóa/dịch vụ qua mạng từ thương nhân nước ngoài trong năm 2023 .............................................50
+V. ĐÁNH GIÁ MỨC ĐỘ HÀI LÒNG VỀ HOẠT ĐỘNG MUA SẮM TRỰC TUYẾN .................................................................51
+1. Mức độ hài lòng của người tiêu dùng .................................................................................................................................................................51
+2. Tiêu chí người tiêu dùng trực tuyến quan tâm khi tham gia mua sắm ...................................................................................................51
+3. Các trở ngại khi mua hàng trực tuyến .................................................................................................................................................................52
+4. Lý do chưa mua sắm trực tuyến ............................................................................................................................................................................52
+
+================================================================================
+TRANG 6 | section=- | mode=plain | 4354 ký tự | LOẠI
+================================================================================
+CHƯƠNG IV: TÌNH HÌNH ỨNG DỤNG THƯƠNG MẠI ĐIỆN TỬ TRONG DOANH NGHIỆP ............. 53
+I. THÔNG TIN CHUNG VỀ DOANH NGHIỆP THAM GIA KHẢO SÁT ..................................................................................54
+1. Loại hình doanh nghiệp tham gia khảo sát ......................................................................................................................................................54
+2. Lĩnh vực kinh doanh của doanh nghiệp ............................................................................................................................................................ 54
+3. Quy mô của doanh nghiệp tham gia khảo sát .................................................................................................................................................55
+II. MỨC ĐỘ SẴN SÀNG ỨNG DỤNG TMĐT CỦA DOANH NGHIỆP ...................................................................................55
+1. Hạ tầng công nghệ thông tin .................................................................................................................................................................................55
+2. Nguồn nhân lực cho thương mại điện tử .......................................................................................................................................................... 57
+3. Tình hình sử dụng chữ ký số, hợp đồng và hóa đơn điện tử năm 2022 ................................................................................................. 57
+III. DOANH NGHIỆP ỨNG DỤNG THƯƠNG MẠI ĐIỆN TỬ ................................................................................................58
+1. Thương mại điện tử trên nền tảng website .......................................................................................................................................................58
+2. Thương mại điện tử trên nền tảng di động .......................................................................................................................................................59
+IV. TÌNH HÌNH VẬN HÀNH WEBSITE THƯƠNG MẠI ĐIỆN TỬ, ỨNG DỤNG DI ĐỘNG ....................................................60
+1. Quảng cáo website, ứng dụng TMĐT ..................................................................................................................................................................60
+2. Tình hình vận hành website, ứng dụng di động TMĐT .................................................................................................................................61
+V. CÁC DỊCH VỤ HỖ TRỢ THƯƠNG MẠI ĐIỆN TỬ .............................................................................................................64
+1. Phương thức vận chuyển hàng hóa mà doanh nghiệp sử dụng .............................................................................................................. 64
+2. Tỷ lệ của chi phí hoàn tất đơn hàng và giao hàng chặng cuối so với doanh thu từ hoạt động TMĐT của doanh nghiệp... 64
+3. Phương thức thanh toán mà doanh nghiệp sử dụng ................................................................................................................................... 64
+4. Tỷ lệ doanh nghiệp cho phép khách hàng mua hàng trả góp .................................................................................................................. 65
+VI. TÌNH HÌNH SỬ DỤNG DỊCH VỤ CÔNG TRỰC TUYẾN CỦA DOANH NGHIỆP ..............................................................65
+1. Tỷ lệ doanh nghiệp có tra cứu thông tin trên website của cơ quan nhà nước .....................................................................................65
+2. Tỷ lệ doanh nghiệp có sử dụng dịch vụ công trực tuyến liên quan tới các thủ tục đăng ký, cấp phép, khai báo... được cung
+cấp trên website của cơ quan nhà nước. ..........................................................................................................................................................65
+3. Các loại dịch vụ công trực tuyến mà doanh nghiệp đã sử dụng ............................................................................................................... 66
+4. Đánh giá của doanh nghiệp về lợi ích của dịch vụ công trực tuyến ........................................................................................................66
+
+================================================================================
+TRANG 7 | section=- | mode=plain | 3770 ký tự | LOẠI
+================================================================================
+CHƯƠNG V:TÌNH HÌNH HOẠT ĐỘNG CỦA CÁC WEBSITE, ỨNG DỤNG THƯƠNG MẠI ĐIỆN TỬ ...67
+I. THÔNG TIN CHUNG ..........................................................................................................................................................68
+1. Website/ứng dụng TMĐT bán hàng .....................................................................................................................................................................68
+2. Website/ứng dụng cung cấp dịch vụ TMĐT ......................................................................................................................................................69
+II. CÁC TIỆN ÍCH HỖ TRỢ ĐƯỢC CUNG CẤP TRÊN WEBSITE, ỨNG DỤNG DI ĐỘNG TMĐT ..........................................70
+1. Tỷ lệ website, ứng dụng TMĐT yêu cầu người dùng đăng ký thành viên khi mua hàng.................................................................. 70
+2. Tỷ lệ website, ứng dụng TMĐT tích hợp mạng xã hội ...................................................................................................................................70
+3. Triển khai xây dựng ứng dụng di động ...............................................................................................................................................................71
+4. Thanh toán ....................................................................................................................................................................................................................72
+5. Chính sách và dịch vụ hỗ trợ ..................................................................................................................................................................................73
+III. TÌNH HÌNH KINH DOANH TRÊN WEBSITE, ỨNG DỤNG TMĐT BÁN HÀNG ...............................................................76
+1. Hàng hóa, dịch vụ được mua, sử dụng nhiều nhất trên website, ứng dụng TMĐT bán hàng ....................................................... 76
+2. Phạm vi hoạt động của website, ứng dụng TMĐT bán hàng ..................................................................................................................... 76
+3. Tỷ lệ số lượng đơn hàng thành công của website, ứng dụng TMĐT bán hàng tại một số tỉnh/thành phố ...............................77
+4. Thị phần TMĐT bán hàng ........................................................................................................................................................................................78
+IV. TÌNH HÌNH KINH DOANH TRÊN WEBSITE, ỨNG DỤNG CUNG CẤP DỊCH VỤ TMĐT ................................................79
+1. Lĩnh vực hoạt động của website, ứng dụng cung cấp dịch vụ TMĐT ..................................................................................................... 79
+2. Hoạt động của người bán nước ngoài trên website/ứng dụng cung cấp dịch vụ TMĐT .................................................................79
+3. Tình hình hoạt động của website/ứng dụng cung cấp dịch vụ TMĐT theo địa phương . ...............................................................81
+4. Thị phần dịch vụ TMĐT .............................................................................................................................................................................................83
+V. KHÓ KHĂN, TRỞ NGẠI KHI VẬN HÀNH WEBSITE/ỨNG DỤNG DI ĐỘNG .................................................................. 85
+PHỤ LỤC ............................................................................................................................................. 87
+PHỤ LỤC: BẢNG CẬP NHẬT KHUNG PHÁP LÝ CƠ BẢN VỀ THƯƠNG MẠI ĐIỆN TỬ .......................................................88
+
+================================================================================
+TRANG 8 | section=- | mode=plain | 395 ký tự | LOẠI
+================================================================================
+DANH MỤC TỪ VIẾT TẮT
+1. TMĐT: THƯƠNG MẠI ĐIỆN TỬ
+2. CNTT: CÔNG NGHỆ THÔNG TIN
+3. CCDV: CUNG CẤP DỊCH VỤ
+4. NTD: NGƯỜI TIÊU DÙNG
+5. BVQLNTD: BẢO VỆ QUYỀN LỢI NGƯỜI TIÊU DÙNG
+6. QLNN: QUẢN LÝ NHÀ NƯỚC
+7. CQQLNN: CƠ QUAN QUẢN LÝ NHÀ NƯỚC
+8. CCDVTMĐT: CUNG CẤP DỊCH VỤ THƯƠNG MẠI ĐIỆN TỬ
+9. COD: TIỀN MẶT KHI NHẬN HÀNG
+10. UD: ỨNG DỤNG
+11. TP: THÀNH PHỐ
+12. OTA: ĐẠI LÝ KINH DOANH DU LỊCH TRỰC TUYẾN
+
+================================================================================
+TRANG 9 | section=chuong_1 | mode=plain | 87 ký tự | LOẠI
+================================================================================
+CẬP NHẬT CHÍNH SÁCH PHÁP LUẬT VÀ
+TÌNH HÌNH QUẢN LÝ HOẠT ĐỘNG TMĐT TẠI VIỆT NAM
+CHƯƠNG I
+
+================================================================================
+TRANG 10 | section=chuong_1 | mode=plain | 871 ký tự | TÍNH
+================================================================================
+I. CẬP NHẬT MỘT SỐ CHÍNH SÁCH PHÁP LUẬT LIÊN QUAN ĐẾN THƯƠNG MẠI ĐIỆN TỬ
+1. Luật Bảo vệ quyền lợi người tiêu dùng (sửa đổi)
+Ngày 20/6/2023, Quốc hội đã thông qua Luật Bảo vệ người tiêu dùng (sửa đổi), có hiệu lực thi hành kể từ ngày
+01/7/2024. Luật đã bổ sung trách nhiệm của tổ chức, cá nhân kinh doanh với người tiêu dùng (NTD) trong các giao
+dịch trên không gian mạng.
+1
+2
+Phân loại tổ chức, cá nhân kinh doanh trên không gian mạng
+Trách nhiệm của tổ chức, cá nhân kinh doanh trên không gian mạng
+1
+2
+Tổ chức, cá nhân kinh doanh sản phẩm, hàng hóa, dịch vụ thông qua hệ thống
+thông tin tự mình thiết lập hoặc thông qua các nền tảng số;
+Tổ chức thiết lập, vận hành nền tảng số trung gian;
+Tổ chức, cá nhân kinh doanh trên không gian mạng có trách nhiệm
+thực hiện quy định tại Điều 37 và Điều 38 của Luật này, Mục 2 Chương
+III trong trường hợp cung cấp dịch vụ liên tục.
+
+================================================================================
+TRANG 11 | section=chuong_1 | mode=plain | 1438 ký tự | TÍNH
+================================================================================
+3 Trách nhiệm của tổ chức thiết lập, vận hành nền tảng số trung gian với NTD trong giao dịch
+trên không gian mạng
+1
+3
+5
+2
+4
+6
+Có trách nhiệm thực hiện quy định tại Điều 37 và Điều 38, Mục 2 Chương III
+trong trường hợp cung cấp dịch vụ liên tục;
+Xây dựng, công bố công khai quy chế hoạt động của nền tảng số trung gian
+cho NTD, trong đó phân định rõ trách nhiệm của các bên tham gia giao dịch;
+Chỉ định, công bố công khai đầu mối liên hệ, người đại diện được ủy quyền
+phối hợp với CQQLNN có thẩm quyền trong việc giải quyết các vấn đề liên
+quan đến BVQLNTD;
+Cho phép NTD phản hồi, đánh giá về tổ chức, cá nhân kinh doanh, sản phẩm,
+hàng hóa, dịch vụ do tổ chức, cá nhân kinh doanh bán, cung cấp, đồng thời
+hiển thị đầy đủ, chính xác kết quả phản hồi, đánh giá, trừ trường hợp phản
+hồi, đánh giá đó vi phạm quy định của pháp luật, trái đạo đức xã hội;
+Hiển thị đầy đủ, minh bạch thông tin sản phẩm, hàng hóa, dịch vụ do tổ
+chức, cá nhân kinh doanh bán, cung cấp, bao gồm các nội dung bắt buộc thể
+hiện trên nhãn hàng hóa theo quy định của pháp luật về nhãn hàng hóa, trừ
+các thông tin có tính chất riêng biệt theo sản phẩm, bao gồm: ngày, tháng,
+năm sản xuất; thời hạn sử dụng; số lô sản xuất; số khung, số máy; tiêu chuẩn
+kết quả cần đạt được trong cung cấp sản phẩm, hàng hóa, dịch vụ;
+Cung cấp thông tin về tổ chức, cá nhân kinh doanh hoạt động trên nền tảng
+số trung gian khi NTD giao dịch với tổ chức, cá nhân kinh doanh đó có yêu cầu;
+
+================================================================================
+TRANG 12 | section=chuong_1 | mode=plain | 1525 ký tự | TÍNH
+================================================================================
+7
+9
+11
+13
+Chỉ định, công bố công khai đầu mối tiếp nhận và giải quyết phản ánh, yêu cầu,
+khiếu nại của NTD liên quan đến sản phẩm, hàng hóa, dịch vụ, nội dung thông
+tin trên nền tảng số trung gian; tiếp nhận và giải quyết phản ánh, yêu cầu,
+khiếu nại của NTD đối với tổ chức thiết lập, vận hành nền tảng số trung gian;
+Trực tiếp lưu trữ thông tin hoặc cung cấp giải pháp lưu trữ thông tin về sản
+phẩm, hàng hóa, dịch vụ và các giao dịch liên quan, cho phép NTD truy cập,
+truy vết, tải, lưu trữ và in hóa đơn, chứng từ, tài liệu liên quan đến giao dịch
+trên nền tảng số trung gian mà mình quản lý;
+Cung cấp báo cáo về các hoạt động kiểm duyệt nội dung đã thực hiện theo
+yêu cầu của cơ quan nhà nước có thẩm quyền;
+Xác thực danh tính tổ chức, cá nhân bán sản phẩm, hàng hóa, cung cấp dịch
+vụ trên nền tảng số của mình;
+8
+10
+12
+14
+Có biện pháp cho phép hiển thị ưu tiên đánh giá, phản ánh, kiến nghị của
+tổ chức xã hội tham gia BVQLNTD hoặc tổ chức đánh giá tín nhiệm theo quy
+định của pháp luật;
+Minh bạch hoạt động quảng cáo trên không gian mạng theo quy định của
+pháp luật trong trường hợp có hoạt động quảng cáo;
+Duy trì tài khoản báo cáo trực tuyến và cung cấp thông tin, dữ liệu cập nhật
+đến thời điểm được yêu cầu báo cáo để phục vụ hoạt động thanh tra, kiểm
+tra của CQQLNN có thẩm quyền theo quy định của pháp luật;
+Chịu trách nhiệm với NTD theo quy định của pháp luật về TMĐT trong
+trường hợp tổ chức, cá nhân kinh doanh trong nước và nước ngoài bán,
+cung cấp sản phẩm, hàng hóa, dịch vụ cho NTD trên lãnh thổ Việt Nam;
+
+================================================================================
+TRANG 13 | section=chuong_1 | mode=plain | 538 ký tự | TÍNH
+================================================================================
+4 Trách nhiệm của tổ chức thiết lập, vận hành nền tảng số lớn với NTD trong giao dịch trên không
+gian mạng
+1
+3
+2
+4
+Có trách nhiệm thực hiện quy định tại khoản 3 Điều 39 Luật này;
+Thiết lập kho lưu trữ quảng cáo có sử dụng thuật toán để hướng đến NTD, nhóm NTD cụ thể;
+Đánh giá định kỳ hoạt động kiểm duyệt nội dung việc sử dụng hệ thống thuật toán và quảng
+cáo hướng tới NTD, nhóm NTD cụ thể;
+Đánh giá định kỳ việc thực hiện quy định xử lý tài khoản giả, việc sử dụng trí tuệ nhân
+tạo, các giải pháp tự động toàn bộ hoặc tự động một phần;
+
+================================================================================
+TRANG 14 | section=chuong_1 | mode=plain | 306 ký tự | TÍNH
+================================================================================
+1
+3
+2
+2. Luật Giao dịch điện tử (sửa đổi)
+Ngày 22/6/2023, Quốc hội đã thông qua Luật Giao dịch điện tử (sửa đổi), có hiệu lực thi hành kể từ ngày 01/7/2024.
+DỊCH VỤ TIN CẬY
+1 Phân loại dịch vụ tin cậy
+Dịch vụ cấp dấu thời gian;
+Dịch vụ chứng thực thông điệp dữ liệu;
+Dịch vụ chứng thực chữ ký số công cộng;
+
+================================================================================
+TRANG 15 | section=chuong_1 | mode=plain | 1191 ký tự | TÍNH
+================================================================================
+1
+1
+3
+3
+5
+2
+2
+4
+4
+2
+3
+Điều kiện kinh doanh dịch vụ tin cậy
+Trách nhiệm của tổ chức cung cấp dịch vụ tin cậy
+Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam;
+Công bố công khai quy trình đăng ký sử dụng dịch vụ, các biểu mẫu và chi phí liên quan;
+Đáp ứng điều kiện tài chính, nhân lực quản lý và kỹ thuật phù hợp với từng loại hình
+dịch vụ tin cậy;
+Bảo đảm kênh tiếp nhận thông tin và cung cấp dịch vụ liên tục 24 giờ trong ngày và
+07 ngày trong tuần;
+Có phương án kỹ thuật phục vụ hoạt động cung cấp dịch vụ phù hợp với từng loại dịch
+vụ tin cậy;
+Bảo đảm trang thiết bị trong hệ thống thông tin được cấp mã quản lý, sẵn sàng kết nối
+kỹ thuật phục vụ công tác quản lý nhà nước về dịch vụ tin cậy;
+Hệ thống thông tin cung cấp dịch vụ tin cậy đáp ứng yêu cầu bảo đảm an toàn thông tin
+mạng tối thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng;
+Thực hiện chế độ lưu trữ hồ sơ, tài liệu và kết nối, cung cấp thông tin, số liệu báo cáo
+bằng phương tiện điện tử theo quy định của pháp luật;
+Có phương án sẵn sàng kết nối kỹ thuật phục vụ giám sát, kiểm tra, báo cáo số liệu bằng
+phương tiện điện tử đáp ứng yêu cầu quản lý nhà nước về dịch vụ tin cậy;
+
+================================================================================
+TRANG 16 | section=chuong_1 | mode=plain | 1370 ký tự | TÍNH
+================================================================================
+5
+6
+1
+7
+2
+8
+3
+Thực hiện các biện pháp nghiệp vụ, tạm dừng, chấm dứt cung cấp dịch vụ hoặc
+thực hiện biện pháp nghiệp vụ khác theo yêu cầu của cơ quan có thẩm quyền
+theo quy định của pháp luật;
+Thực hiện trách nhiệm của chủ quản hệ thống thông tin phục vụ cung cấp dịch vụ
+tin cậy đáp ứng yêu cầu bảo đảm an toàn thông tin mạng tối thiểu cấp độ 3 theo
+quy định của pháp luật về an toàn thông tin mạng;
+Tổ chức CCDV chứng thực hợp đồng điện tử trong thương mại phải đáp ứng điều
+kiện hoạt động cung cấp dịch vụ chứng thực hợp đồng điện tử theo quy định của
+pháp luật về TMĐT và điều kiện kinh doanh dịch vụ tin cậy theo quy định tại Điều
+29 của Luật này;
+Định kỳ hằng năm, báo cáo về hoạt động cung cấp dịch vụ tin cậy theo quy định
+của cơ quan có thẩm quyền;
+Xác nhận đăng ký hoạt động CCDV chứng thực hợp đồng điện tử trong thương
+mại đã được cấp trước ngày Luật này có hiệu lực thi hành thì được tiếp tục sử
+dụng đến hết ngày 30 tháng 6 năm 2027;
+Nộp phí dịch vụ duy trì hệ thống kiểm tra trạng thái chứng thư chữ ký số theo quy
+định của pháp luật về phí và lệ phí;
+Đối với hồ sơ đăng ký hoạt động cung cấp dịch vụ chứng thực hợp đồng điện tử
+trong thương mại đã nộp cho cơ quan nhà nước có thẩm quyền nhưng đến ngày
+Luật này có hiệu lực thi hành chưa được xác nhận đăng ký thì được tiếp tục áp
+dụng quy định của pháp luật về TMĐT;
+4 Dịch vụ chứng thực hợp đồng điện tử
+
+================================================================================
+TRANG 17 | section=chuong_1 | mode=plain | 734 ký tự | TÍNH
+================================================================================
+Hệ thống thông tin phục vụ giao dịch điện tử là tập hợp phần cứng, phần mềm và
+cơ sở dữ liệu được thiết lập với chức năng, tính năng chính để phục vụ giao dịch
+điện tử, bảo đảm xác thực, tin cậy trong giao dịch điện tử.
+Nền tảng số phục vụ giao dịch điện tử là hệ thống thông tin quy định tại khoản 1
+Điều 45 Luật này tạo môi trường điện tử cho phép các bên thực hiện giao dịch hoặc
+cung cấp, sử dụng sản phẩm, dịch vụ hoặc sử dụng để phát triển sản phẩm, dịch vụ.
+Nền tảng số trung gian phục vụ giao dịch điện tử là nền tảng số phục vụ giao dịch
+điện tử mà chủ quản nền tảng số độc lập với các bên thực hiện giao dịch.
+HỆ THỐNG THÔNG TIN
+PHỤC VỤ GIAO DỊCH ĐIỆN TỬ
+1
+2
+Định nghĩa hệ thống tin phục vụ giao dịch điện tử
+Nền tảng số
+1
+2
+
+================================================================================
+TRANG 18 | section=chuong_1 | mode=plain | 1351 ký tự | TÍNH
+================================================================================
+Tuân thủ quy định của Luật này và pháp luật về an toàn thông tin mạng, an ninh
+mạng, bảo vệ thông tin cá nhân, bảo vệ dữ liệu cá nhân và quy định khác của
+pháp luật có liên quan.
+Tuân thủ quy định tại khoản 2 Điều 47 luật này
+Cung cấp thông tin bằng phương tiện điện tử theo quy định của pháp luật nhằm
+phục vụ công tác đo lường, thống kê, giám sát, thanh tra, kiểm tra, báo cáo theo
+yêu cầu của cơ quan QLNN về giao dịch điện tử; chia sẻ dữ liệu phục vụ QLNN về
+giao dịch điện tử;
+Công bố công khai nguyên tắc chung, thông số hoặc tiêu chí được sử dụng để
+đưa ra khuyến nghị hiển thị nội dung, hiển thị quảng cáo cho người dùng và cho
+phép người dùng lựa chọn phương án không sử dụng khuyến nghị hiển thị nội
+dung, hiển thị quảng cáo dựa trên phân tích dữ liệu về người dùng;
+Cho phép người sử dụng tháo gỡ cài đặt bất kỳ ứng dụng nào được cài đặt sẵn
+mà không ảnh hưởng đến các tính năng kỹ thuật cơ bản để hệ thống vận hành
+bình thường;
+Công bố công khai và phổ biến bộ quy tắc ứng xử áp dụng đối với các bên liên
+quan tham gia sử dụng hệ thống.
+3
+4
+Trách nhiệm của chủ quản hệ thống thông tin phục vụ giao dịch điện tử
+Trách nhiệm của chủ quản nền tảng số trung gian quy mô rất lớn phục vụ giao dịch điện tử
+1
+1
+2
+2
+3
+3
+4
+Giám sát an toàn hệ thống thông tin phục vụ giao dịch điện tử của mình theo quy
+định của pháp luật về an toàn thông tin mạng.
+
+================================================================================
+TRANG 19 | section=chuong_1 | mode=plain | 1319 ký tự | TÍNH
+================================================================================
+3. Nghị định số 91/2022/NĐ-CP ngày 30 tháng 10 năm 2022 của Chính phủ
+
+Nghị định số 91/2022/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10
+năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế. Theo đó, Nghị định bổ sung quy
+định về trách nhiệm của chủ sở hữu sàn giao dịch thương mại điện tử.
+Việc cung cấp thông tin được thực hiện định kỳ hàng quý chậm nhất vào ngày cuối cùng
+của tháng đầu quý sau, bằng phương thức điện tử, qua Cổng thông tin điện tử của Tổng
+cục Thuế theo định dạng dữ liệu do Tổng cục Thuế công bố.
+1
+2
+3
+Doanh thu bán hàng thông qua
+chức năng đặt hàng trực tuyến của sàn
+4
+3
+4
+2
+1
+Chủ sở hữu sàn thương mại
+điện tử có trách nhiệm cung
+cấp đầy đủ, chính xác và đúng
+hạn theo quy định cho cơ quan
+thuế thông tin của thương nhân,
+tổ chức, cá nhân có tiến hành một
+phần hoặc toàn bộ quy trình mua
+bán hàng hóa, dịch vụ trên sàn
+giao dịch thương mại điện
+tử bao gồm
+Tên người bán hàng
+Mã số thuế hoặc số định danh
+cá nhân hoặc chứng minh nhân
+dân hoặc căn cước công dân
+hoặc hộ chiếu
+Địa chỉ, số điện thoại liên lạc
+Việc cung cấp thông tin được thực hiện định kỳ hàng quý chậm nhất vào ngày cuối cùng của tháng đầu quý sau,
+bằng phương thức điện tử, qua Cổng thông tin điện tử của Tổng cục Thuế theo định dạng dữ liệu do Tổng cục Thuế công bố
+
+================================================================================
+TRANG 20 | section=chuong_1 | mode=plain | 2217 ký tự | TÍNH
+================================================================================
+4. Nghị định số 13/2023/NĐ-CP ngày 17 tháng 4 năm 2023 của Chính phủ
+Nghị định 13/2023/NĐ-CP quy định về bảo vệ dữ liệu cá nhân và trách nhiệm bảo vệ dữ liệu cá nhân của
+cơ quan, tổ chức, cá nhân có liên quan.
+;
+1 Phân loại dữ liệu cá nhân
+Dữ liệu cá nhân cơ bản Dữ liệu cá nhân nhạy cảm
+• •
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Họ, chữ đệm và tên khai sinh, tên gọi khác (nếu có);
+Ngày, tháng, năm sinh; ngày, tháng, năm chết hoặc
+mất tích;
+Giới tính;
+Quốc tịch;
+Hình ảnh của cá nhân;
+Tình trạng hôn nhân;
+Thông tin về mối quan hệ gia đình (cha mẹ, con cái);
+Thông tin về tài khoản số của cá nhân; dữ liệu cá
+nhân phản ánh hoạt động, lịch sử hoạt động trên
+không gian mạng;
+Các thông tin khác gắn liền với một con người cụ
+thể hoặc giúp xác định một con người cụ thể không
+thuộc quy định tại khoản 4 Điều 2 Nghị định này;
+Số điện thoại, số chứng minh nhân dân, số định
+danh cá nhân, số hộ chiếu, số giấy phép lái xe, số
+biển số xe, số mã số thuế cá nhân, số bảo hiểm xã
+hội, số thẻ bảo hiểm y tế;
+Nơi sinh, nơi đăng ký khai sinh, nơi thường trú,
+nơi tạm trú, nơi ở hiện tại, quê quán, địa chỉ liên hệ;
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Quan điểm chính trị, quan điểm tôn giáo;
+Thông tin liên quan đến nguồn gốc chủng tộc,
+nguồn gốc dân tộc;
+Thông tin về đặc điểm di truyền được thừa hưởng
+hoặc có được của cá nhân;
+Thông tin về thuộc tính vật lý, đặc điểm sinh học
+riêng của cá nhân;
+Thông tin về đời sống tình dục, xu hướng tình dục
+của cá nhân;
+Dữ liệu về tội phạm, hành vi phạm tội được thu
+thập, lưu trữ bởi các cơ quan thực thi pháp luật;
+Dữ liệu về vị trí của cá nhân được xác định qua
+dịch vụ định vị;
+Dữ liệu cá nhân khác được pháp luật quy định là
+đặc thù và cần có biện pháp bảo mật cần thiết;
+Thông tin khách hàng của tổ chức tín dụng, chi
+nhánh ngân hàng nước ngoài, tổ chức cung ứng
+dịch vụ trung gian thanh toán, các tổ chức được
+phép khác, gồm: thông tin định danh khách hàng
+theo quy định của pháp luật, thông tin về tài khoản,
+thông tin về tiền gửi, thông tin về tài sản gửi, thông
+tin về giao dịch, thông tin về tổ chức, cá nhân là bên
+bảo đảm tại tổ chức tín dụng, chi nhánh ngân hàng,
+tổ chức cung ứng dịch vụ trung gian thanh toán;
+Tình trạng sức khỏe và đời tư được ghi trong hồ sơ
+bệnh án, không bao gồm thông tin về nhóm máu;
+
+================================================================================
+TRANG 21 | section=chuong_1 | mode=plain | 311 ký tự | TÍNH
+================================================================================
+2 Quyền của chủ thể dữ liệu
+1
+4
+9
+2
+7
+5
+10
+3
+8
+6
+11
+Quyền được biết
+Quyền đồng ý
+Quyền cung cấp dữ liệu
+Quyền truy cập đồng ý
+Quyền phản đối xử lý dữ liệu
+Quyền xóa dữ liệu
+Quyền yêu cầu bồi thường thiệt hại
+Quyền hạn chế xử lý dữ liệu
+Quyền tự bảo vệ
+Quyền rút lại sự đồng ý
+Quyền khiếu nại, tố cáo, khởi kiện;
+
+================================================================================
+TRANG 22 | section=chuong_1 | mode=plain | 1076 ký tự | TÍNH
+================================================================================
+3
+4
+Trường hợp xử lý dữ liệu cá nhân không cần sự đồng ý của chủ thể dữ liệu
+Thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân
+Trường hợp khẩn cấp, cần xử lý ngay dữ liệu cá nhân có liên
+quan để bảo vệ tính mạng, sức khỏe của chủ thể dữ liệu hoặc
+người khác;
+Việc công khai dữ liệu cá nhân theo quy định của luật.
+Việc xử lý dữ liệu của cơ quan nhà nước có thẩm quyền trong
+trường hợp tình trạng khẩn cấp về quốc phòng, an ninh quốc
+gia, trật tự an toàn xã hội, thảm họa lớn, dịch bệnh nguy hiểm,...
+Để thực hiện nghĩa vụ theo hợp đồng của chủ thể dữ liệu với cơ
+quan, tổ chức, cá nhân có liên quan theo quy định của luật;
+Phục vụ hoạt động của cơ quan nhà nước đã được quy định
+theo luật chuyên ngành.
+Trường hợp phát hiện xảy ra vi phạm quy định bảo vệ dữ liệu cá nhân,
+Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân
+thông báo cho Bộ Công an (Cục An ninh mạng và phòng, chống tội
+phạm sử dụng công nghệ cao) chậm nhất 72 giờ sau khi xảy ra hành vi
+vi phạm.
+Trường hợp thông báo sau 72 giờ thì phải kèm theo lý do thông báo
+chậm, muộn.
+•
+•
+•
+•
+•
+•
+•
+
+================================================================================
+TRANG 23 | section=chuong_1 | mode=plain | 1896 ký tự | TÍNH
+================================================================================
+5 Trách nhiệm của Bên kiểm soát dữ liệu cá nhân và Bên xử lý dữ liệu cá nhân
+Bên kiểm soát dữ liệu cá nhân Bên xử lý dữ liệu cá nhân
+••
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Thực hiện các biện pháp tổ chức và kỹ thuật
+cùng các biện pháp an toàn, bảo mật phù hợp
+để chứng minh các hoạt động xử lý dữ liệu đã
+được thực hiện theo quy định của pháp luật
+về bảo vệ dữ liệu cá nhân, rà soát và cập nhật
+các biện pháp này khi cần thiết;
+Ghi lại và lưu trữ nhật ký hệ thống quá trình xử
+lý dữ liệu cá nhân;
+Thông báo hành vi vi phạm quy định về bảo
+vệ dữ liệu cá nhân theo quy định tại Điều 23
+Nghị định này;
+Lựa chọn Bên Xử lý dữ liệu cá nhân phù hợp
+với nhiệm vụ rõ ràng và chỉ làm việc với Bên
+Xử lý dữ liệu cá nhân có các biện pháp bảo
+vệ phù hợp;
+Bảo đảm các quyền của chủ thể dữ liệu theo
+quy định tại Điều 9 Nghị định này;
+Bên Kiểm soát dữ liệu cá nhân chịu trách
+nhiệm trước chủ thể dữ liệu về các thiệt hại do
+quá trình xử lý dữ liệu cá nhân gây ra;
+Phối hợp với Bộ Công an, cơ quan nhà nước
+có thẩm quyền trong bảo vệ dữ liệu cá nhân,
+cung cấp thông tin phục vụ điều tra, xử lý hành
+vi vi phạm quy định của pháp luật về bảo vệ
+dữ liệu cá nhân;
+Chỉ tiếp nhận dữ liệu cá nhân sau khi có hợp đồng
+hoặc thỏa thuận về xử lý dữ liệu với Bên Kiểm soát
+dữ liệu cá nhân;
+Xử lý dữ liệu cá nhân theo đúng hợp đồng hoặc thỏa
+thuận ký kết với Bên Kiểm soát dữ liệu cá nhân;
+Thực hiện đầy đủ các biện pháp bảo vệ dữ liệu cá
+nhân quy định tại Nghị định này và các văn bản pháp
+luật khác có liên quan;
+Bên Xử lý dữ liệu cá nhân chịu trách nhiệm trước chủ
+thể dữ liệu về các thiệt hại do quá trình xử lý dữ liệu
+cá nhân gây ra;
+Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm
+soát dữ liệu cá nhân sau khi kết thúc xử lý dữ liệu;
+Phối hợp với Bộ Công an, cơ quan nhà nước có thẩm
+quyền trong bảo vệ dữ liệu cá nhân, cung cấp thông
+tin phục vụ điều tra, xử lý hành vi vi phạm quy định
+của pháp luật về bảo vệ dữ liệu cá nhân;
+
+================================================================================
+TRANG 24 | section=chuong_1 | mode=plain | 1377 ký tự | TÍNH
+================================================================================
+•
+5.Chỉ thị số 18/CT-TTg ngày 30 tháng 5 năm 2023 của Thủ tướng Chính phủ
+Ngày 30 tháng 5 năm 2023, Thủ tướng Chính phủ đã ban hành Chỉ thị số 18/CT-TTg về việc đẩy mạnh kết
+nối, chia sẻ dữ liệu phục vụ phát triển TMĐT chống thất thu thuế, bảo đảm an ninh tiền tệ.
+Tăng cường hiệu lực, hiệu quả và tiếp tục đẩy mạnh chuyển đổi số trong công
+tác QLNN đối với hoạt động TMĐT, hoạt động kinh doanh trên nền tảng số,
+kinh doanh xuyên biên giới, kết nối, chia sẻ dữ liệu giữa các bộ, ngành phục vụ
+phát triển TMĐT, chống thất thu thuế, bảo đảm an ninh tiền tệ.
+1. Mục tiêu
+6 Đánh giá tác động xử lý dữ liệu cá nhân
+Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá
+nhân lập và lưu giữ Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân
+của mình kể từ thời điểm bắt đầu xử lý dữ liệu cá nhân.
+Bên Xử lý dữ liệu cá nhân tiến hành lập và lưu giữ Hồ sơ đánh giá tác
+động xử lý dữ liệu cá nhân trong trường hợp thực hiện hợp đồng
+với Bên Kiểm soát dữ liệu cá nhân.
+Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân phải luôn có sẵn để
+phục vụ hoạt động kiểm tra, đánh giá của Bộ Công an và gửi Bộ
+Công an 01 bản chính trong thời gian 60 ngày kể từ ngày tiến hành
+xử lý dữ liệu cá nhân.
+Trường hợp chuyển dữ liệu cá nhân ra nước ngoài, bên chuyển dữ
+liệu ra nước ngoài gửi 01 bản chính hồ sơ tới Bộ Công an trong thời
+gian 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân.
+•
+•
+•
+•
+
+================================================================================
+TRANG 25 | section=chuong_1 | mode=plain | 993 ký tự | TÍNH
+================================================================================
+Sửa đổi chính sách, pháp luật liên quan đến TMĐT;
+Xây dựng cơ sở dữ liệu quản lý thuế đổi với TMĐT, kinh doanh trên nền
+tảng số;
+Kết nối, chia sẻ dữ liệu giữa các cơ quan liên quan để tăng cường công tác
+quản lý thuế đối với hoạt động kinh doanh TMĐT, hoạt động cung cấp sản
+phẩm, dịch vụ số xuyên biên giới;
+Thực hiện chuyển đổi sử dụng mã định danh cá nhân làm mã số thuế; tích
+hợp sử dụng tài khoản định danh điện tử để kê khai, đăng ký nộp thuế trên
+ứng dụng định danh điện tử quốc gia (VneID) và các nền tảng khác do Cơ
+quan thuế hướng dẫn;
+Ứng dụng thẻ Căn cước công dân gắn chịp hoặc dữ liệu dân cư để xác thực
+chủ thể của hoạt động TMĐT tham gia giao kết hợp đồng trên Trục phát
+triển hợp đồng điện tử Việt Nam;
+Khuyến khích các tổ chức, doanh nghiệp cung cấp dịch vụ TMĐT ứng dụng
+tài khoản định danh điện tử, ứng dụng thẻ Căn cước công dân gắn chíp
+hoặc dữ liệu dân cư để xác thực thông tin của tổ chức, cá nhân kinh doanh
+trên các sàn giao dịch TMĐT.
+2. Một số giải pháp
+•
+•
+•
+•
+•
+•
+
+================================================================================
+TRANG 26 | section=chuong_1 | mode=plain | 727 ký tự | TÍNH
+================================================================================
+II. THÔNG TIN QUẢN LÝ HOẠT ĐỘNG THƯƠNG MẠI ĐIỆN TỬ
+Số lượng phản ánh, khiếu nại trên
+Cổng thông tin quản lý hoạt động TMĐT năm 2023
+76.255 tài khoản doanh nghiệp
+tăng 16,4% so với năm 2022
+26.250 tài khoản cá nhân
+tăng 10,8% so với năm 2022
+105.103 hồ sơ thông báo
+tăng 12,1% so với năm 2022
+9.604 hồ sơ đăng ký
+tăng 14,3% so với năm 2022
+48.348 website/ứng dụng đã được xác nhận thông báo
+tăng 6,7% so với năm 2022
+1.218 website/ứng dụng đã được xác nhận đăng ký
+tăng 1,1% so với năm 2022
+18,0% 12,6%
+14,4%
+12,6%
+17,1%
+26,1%
+
+Các loại hành vi khác
+Chưa đăng ký, thông báo
+website/ứng dụng
+Giả mạo thông tin đăng ký
+Kinh doanh hàng giả, hàng cấm
+Lừa đảo trong thanh toán
+Mạo danh website/ứng dụng hoặc
+thương nhân, tổ chức khác
+
+================================================================================
+TRANG 27 | section=chuong_2 | mode=plain | 55 ký tự | LOẠI
+================================================================================
+TỔNG QUAN TMĐT THẾ GIỚI VÀ KHU VỰC ĐÔNG NAM Á
+CHƯƠNG II
+
+================================================================================
+TRANG 28 | section=chuong_2 | mode=layout | 694 ký tự | TÍNH
+================================================================================
+I. THƯƠNG MẠI ĐIỆN TỬ THẾ GIỚI
+1. Tình hình sử dụng Internet và tham gia TMĐT toàn cầu 1
+1.1. Lượng người dùng Internet | 5.1 58
+5.060
+4.962
+4.627
+4.335
+9,00 | 7,20
+6,70
+2,00 | 1,90
+T1 /2 019 | T1 /2 020 | T1 /2 021 | T1 /2 022 | T1 /2 023
+Lượng người dùng | (tri ệu người) | Tốc độ | tăn | g trư ởng (% )
+1.2. Thời gian trung bình truy cập Internet toàn cầu
+6 g | iờ 46 phút | 6 g | iờ 38 phút | 6 g | iờ 55 phút | 6 giờ | 57 | ph | út | 6 gi | ờ 37 ph | út
+4,30
+0,50
+0,50
+-2,50
+-4,80
+Q3 - 2018 | Q3 - 2019 | Q3 - 2020 | Q3 - 2021 | Q3 - 2022
+Thời | g ian | Tốc | độ tăng trưởng( | %)
+1 | Số liệu phần này thu thập từ Báo cáo “Digital 2023 global overview report” của We are social & Meltwater
+
+================================================================================
+TRANG 29 | section=chuong_2 | mode=layout | 736 ký tự | TÍNH
+================================================================================
+1.3. Thời gian trung bình truy cập Internet của một số quốc gia
+Philippines | 9 giờ 14 phút
+Thái L | an | 8 giờ | 06 | ph | út
+Malaysia | 8 giờ | 06 | ph | út
+Indonesia | 7 giờ | 42 | ph | út
+Singapore | 6 g | iờ 59 phút
+Việt N am | 6 g | iờ 23 phút
+Ấn | Độ | 6 g | iờ 23 phút
+Úc | 5 g | iờ 51 phút
+Tru ng Quố | c | 5 g | iờ 25 phút
+Hàn | Quố | c | 5 g | iờ 21 phút
+Tru ng bình | to àn | c ầu | 6 g | iờ 37 phút
+1.4. Hoạt động mua sắm trực tuyến hàng tuần của người dùng Internet toàn cầu
+57,6% | người dùng Internet có mua hàng hóa hoặc dịch vụ trực tuyến
+người dùng Internet mua hàng đã qua sử dụng | 14,2%
+23,5% | người dùng Internet sử dụng dịch vụ so sánh giá trực tuyến
+người dùng Internet sử dụng dịch vụ mua ngay trả sau | 18,4%
+
+================================================================================
+TRANG 30 | section=chuong_2 | mode=layout | 1080 ký tự | TÍNH
+================================================================================
+1.5. Tỷ lệ người dùng Internet mua sắm trực tuyến hàng tuần tại một số quốc gia
+Thái L | an | 66,8%
+Hàn | Q uốc | 65,6%
+Indonesia | 62,6%
+Ấn | Độ | 62,3%
+Tru ng Quốc | 61,9%
+Malaysia | 61,3%
+Singapore | 61,0%
+Philippines | 61,0%
+Việt N am | 60,7%
+Úc | 53,4%
+Tru ng bình to àn | c ầu | 57,6%
+2. Quy mô thị trường TMĐT B2C toàn cầu 2
+2.1. Toàn cầu | 26,4%
+20,6% | 23.9
+21.1 | 21.1 | 21.8 | 22.5 | 23.3
+19.5 | 16,3%
+12,2% | 11,0%
+8,2% | 10,0% | 9,2%
+3,3% | 3,3% | 3,2% | 3,4% 2,6%
+4,9 | 5,5 | 6,2 | 6,8 | 7,4
+3,4 | 4,2
+-7,5%
+2019 | 2020 | 2021 | 2022 | 2023* | 2024* | 2025*
+Do | an h th u bán | lẻ q ua | TMĐT | (nghìn tỷ US | D) | Do | an h th u bán | lẻ n goài | TMĐT | (nghìn tỷ US | D)
+Tỷ | lệ th ay đ | ổi d oan h th u TMĐT | bán | lẻ | Tỷ | lệ th ay đ | ổi d oan h th u bán | lẻ n goài | TMĐT
+Nguồn: Báo cáo “Global Ecommerce Forecast” - eMarketer
+2 Doanh thu TMĐT bán lẻ bao gồm hàng hóa và dịch vụ; không bao gồm dịch vụ du lịch, dịch vụ ăn uống, cá cược, dịch vụ chuyển tiền, các loại dịch vụ bất hợp pháp
+và bán vé sự kiện, không bao gồm thanh toán các loại hóa đơn, thuế.
+
+================================================================================
+TRANG 31 | section=chuong_2 | mode=layout | 1069 ký tự | TÍNH
+================================================================================
+2.2. Tỷ lệ tăng trưởng doanh thu bán lẻ TMĐT toàn cầu, chia theo khu vực năm 2022
+Đô | ng N am Á | 20,6%
+Ch | âu | Mỹ L | atinh | 20,4%
+Tru ng Đ | ông v | à C hâu P | hi | 17,0%
+Tru ng & Đô | ng Â u | 16,1%
+Bắc | Mỹ | 15,5%
+Châu Á - Thá i Bình | Dươ | ng | 11,8%
+Tây Â | u | 6,1%
+Toàn | cầu | 12,2%
+Nguồn: Báo cáo “Global Ecommerce Forecast” - eMarketer 3
+2.3. Doanh thu bán lẻ TMĐT toàn cầu, chia theo khu vực năm 2022
+Châ | u Á - Thái | B ìn h Dươn | g | 3.323,19
+Bắc | Mỹ | 1.144,99
+Tây Â | u | 694,59
+Ch | âu | Mỹ L | ati | nh | 167,81
+Tru ng & Đô | ng Â u | 141,90
+Đô | ng N am Á | 89,67
+Tru ng Đô | ng và | Ch | âu | P hi 69,39 | Đơn vị tính: tỷ USD
+Nguồn: Báo cáo “Global Ecommerce Forecast” - eMarketer4
+3 Khu vực Đông Nam Á là một thành phần trong khu vực Châu Á – Thái Bình Dương và số liệu của khu vực Đông Nam Á cũng được tính trong số liệu của khu vực Châu
+Á – Thái Bình Dương.
+4 Khu vực Đông Nam Á là một thành phần trong khu vực Châu Á – Thái Bình Dương và số liệu của khu vực Đông Nam Á cũng được tính trong số liệu của khu vực Châu
+Á – Thái Bình Dương.
+
+================================================================================
+TRANG 32 | section=chuong_2 | mode=layout | 738 ký tự | TÍNH
+================================================================================
+2.4. Top 12 quốc gia chiếm thị phần TMĐT lớn nhất toàn cầu năm 2022
+Tru ng Quố | c | 50,2%
+Mỹ | 19,2%
+Vươn | g q uốc | An h | 4,4%
+Nhật | Bả n | 3,0%
+Hàn | Quố | c | 2,6%
+Đức | 2,1%
+Pháp | 1,7% | (Tỷ lệ trong tổng doanh thu TMĐT toàn cầu)
+Ấn | Độ | 1,5%
+Canada | 1,4%
+Nga | 1,0%
+Brazail | 1,0%
+Indonesia | 1,0%
+Nguồn: Báo cáo “Global Ecommerce Forecast” - eMarketer
+2.5. Top 10 quốc gia có tỷ lệ TMĐT bán lẻ lớn nhất toàn cầu năm 2022
+Tru ng Quố | c | 46,3%
+Vươ | ngq | uốc | An h | 36,3%
+Hàn Q | uố c | 32,2%
+Đan M | ạc h | 20,2%
+Indonesia | 20,2%
+Na Uy | 19,4%
+Mỹ | 16,1% | ( Doanh thu TMĐT B2C so với Tổng doanh thu bán lẻ )
+Phần | L an | 14,6%
+Thụy Đi | ển | 14,1%
+Canada | 13,6%
+Nguồn: Báo cáo “Global Ecommerce Forecast” - eMarketer
+
+================================================================================
+TRANG 33 | section=chuong_2 | mode=layout | 849 ký tự | TÍNH
+================================================================================
+2.6. Trung Quốc 5
+3.982
+3.739
+3.454
+3.198
+2.931 | 50,5%
+2.682 | 48,6% | 51,8%
+2.528 | 45,9% | 47,3%
+43,2% | 45,6%
+14,0%
+9,3% | 9,1% | 8,0% | 8,3%
+6,5%
+6,1%
+2021 | 2022 | 2023 | 2024* | 2025* | 2026* | 2027*
+Do | an h th u TMĐ | T | B2C | (tỷ US | D)Tỷ lệ tă ng | trưởng* Số | liệ | u dự b | áo
+Tỷ | lệ của T | MĐT | so với | tổ ng doan h th u bán | lẻ
+2.7. Mỹ 6
+1.720
+1.545
+1.392
+1.56
+1.040 | 1.137
+959
+17,8% | 19,1% | 20,6%
+17,3% | 14,7% | 15,6% | 16,6%
+10,5% | 10,8% | 11,3%
+14,7% | 9,3% | 11,0%
+8,5%
+2021 | 2022 | 2023 | 2024* | 2025* | 2026* | 2027*
+Do | an h th u TMĐ | * ST | B2C | (tỷ US | D)Tỷ lệ tă ng | trưởngố | liệ | u dự b | áo
+Tỷ | lệ của T | MĐT | so với | tổ ng doan h th u bán | lẻ
+5 | https://www.insiderintelligence.com/content/china-ecommerce-forecast-2023
+6 https://www.insiderintelligence.com/content/us-ecommerce-forecast-2022
+
+================================================================================
+TRANG 34 | section=chuong_2 | mode=layout | 728 ký tự | TÍNH
+================================================================================
+II. QUY MÔ KINH TẾ INTERNET ĐÔNG NAM Á7
+1. Quy mô nền kinh tế Internet phân theo lĩnh vực
+186
+20% | 16%
+139
+130 | 11%
+43 | 31 | 34
+18 | 23 | 24 | 30 | 24 | 26
+2022 | 2023 | 2025
+Doanh thu bá | n | lẻ h | àng | hóa | tr ực | tuyến | Doanh thu vận tải và giao đồ ăn
+Doanh thu du lịch trực tuyến | Doanh thu nội dung nghe nhìn trực tuyến
+Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến
+Đơn vị tính: Tỷ USD
+2. Quy mô nền kinh tế Internet phân theo quốc gia năm 2023
+Indonesia | 82
+109
+Thái Lan | 36 | 49
+Việt Nam | 30 | 43
+Philippines | 24 | 35
+Malaysia | 23 | 30
+Singapore | 22 | 29
+2023 | 2025* | * Số liệu dự báo
+7 | Đơn vị tính: Tỷ USD
+Số liệu được tổng hợp từ Báo cáo e-Conomy SEA 2023 – Google, Temasek, Bain & Company
+
+================================================================================
+TRANG 35 | section=chuong_2 | mode=layout | 3025 ký tự | TÍNH | OCR tesseract 5.3.4
+================================================================================
+3. Indonesia
+2022 | 2023 | 2025
+Doanh thu bán lẻ hàng hóa trực tuyến | Doanh thu du lịch trực tuyến
+Doanh thu vận tải và thực phẩm | Doanh thu nội dung nghe nhìn trực tuyến
+Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến
+Đơn vị tính: Tỷ USD
+4. Philippines
+Doanh thu bán lẻ hàng hóa trực tuyến | Doanh thu du lịch trực tuyến
+Doanh thu vận tải và thực phẩm | Doanh thu nội dung nghe nhìn trực tuyến
+Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến
+Đơn vị tính: Tỷ USD
+
+[Số liệu biểu đồ đọc bằng OCR – Tesseract, vị trí và series lấy từ hình vẽ PDF]
+3. Indonesia (đơn vị: Tỷ USD) — 2022 — Doanh thu bán lẻ hàng hóa trực tuyến: 58
+3. Indonesia (đơn vị: Tỷ USD) — 2022 — Doanh thu vận tải và thực phẩm: 8
+3. Indonesia (đơn vị: Tỷ USD) — 2022 — Doanh thu du lịch trực tuyến: 3
+3. Indonesia (đơn vị: Tỷ USD) — 2022 — Doanh thu nội dung nghe nhìn trực tuyến: 6
+3. Indonesia (đơn vị: Tỷ USD) — 2022 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 20%
+3. Indonesia (đơn vị: Tỷ USD) — 2023 — Doanh thu bán lẻ hàng hóa trực tuyến: 62
+3. Indonesia (đơn vị: Tỷ USD) — 2023 — Doanh thu vận tải và thực phẩm: 7
+3. Indonesia (đơn vị: Tỷ USD) — 2023 — Doanh thu du lịch trực tuyến: 6
+3. Indonesia (đơn vị: Tỷ USD) — 2023 — Doanh thu nội dung nghe nhìn trực tuyến: 7
+3. Indonesia (đơn vị: Tỷ USD) — 2023 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 7%
+3. Indonesia (đơn vị: Tỷ USD) — 2025 — Doanh thu bán lẻ hàng hóa trực tuyến: 82
+3. Indonesia (đơn vị: Tỷ USD) — 2025 — Doanh thu vận tải và thực phẩm: 9
+3. Indonesia (đơn vị: Tỷ USD) — 2025 — Doanh thu du lịch trực tuyến: 9
+3. Indonesia (đơn vị: Tỷ USD) — 2025 — Doanh thu nội dung nghe nhìn trực tuyến: 8
+3. Indonesia (đơn vị: Tỷ USD) — 2025 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 15%
+4. Philippines (đơn vị: Tỷ USD) — 2022 — Doanh thu bán lẻ hàng hóa trực tuyến: 15
+4. Philippines (đơn vị: Tỷ USD) — 2022 — Doanh thu vận tải và thực phẩm: 2
+4. Philippines (đơn vị: Tỷ USD) — 2022 — Doanh thu du lịch trực tuyến: 1
+4. Philippines (đơn vị: Tỷ USD) — 2022 — Doanh thu nội dung nghe nhìn trực tuyến: 3
+4. Philippines (đơn vị: Tỷ USD) — 2022 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 29%
+4. Philippines (đơn vị: Tỷ USD) — 2023 — Doanh thu bán lẻ hàng hóa trực tuyến: 16
+4. Philippines (đơn vị: Tỷ USD) — 2023 — Doanh thu vận tải và thực phẩm: 2
+4. Philippines (đơn vị: Tỷ USD) — 2023 — Doanh thu du lịch trực tuyến: 3
+4. Philippines (đơn vị: Tỷ USD) — 2023 — Doanh thu nội dung nghe nhìn trực tuyến: 3
+4. Philippines (đơn vị: Tỷ USD) — 2023 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 5%
+4. Philippines (đơn vị: Tỷ USD) — 2025 — Doanh thu bán lẻ hàng hóa trực tuyến: 24
+4. Philippines (đơn vị: Tỷ USD) — 2025 — Doanh thu vận tải và thực phẩm: 3
+4. Philippines (đơn vị: Tỷ USD) — 2025 — Doanh thu du lịch trực tuyến: 4
+4. Philippines (đơn vị: Tỷ USD) — 2025 — Doanh thu nội dung nghe nhìn trực tuyến: 5
+4. Philippines (đơn vị: Tỷ USD) — 2025 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 21%
+
+================================================================================
+TRANG 36 | section=chuong_2 | mode=layout | 2943 ký tự | TÍNH | OCR tesseract 5.3.4
+================================================================================
+5. Thái Lan
+Doanh thu bán lẻ hàng hóa trực tuyến | Doanh thu du lịch trực tuyến
+Doanh thu vận tải và thực phẩm | Doanh thu nội dung nghe nhìn trực tuyến
+Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến
+Đơn vị tính: Tỷ USD
+6. Malaysia
+Doanh thu bán lẻ hàng hóa trực tuyến | Doanh thu du lịch trực tuyến
+Doanh thu vận tải và thực phẩm | Doanh thu nội dung nghe nhìn trực tuyến
+Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến
+Đơn vị tính: Tỷ USD
+
+[Số liệu biểu đồ đọc bằng OCR – Tesseract, vị trí và series lấy từ hình vẽ PDF]
+5. Thái Lan (đơn vị: Tỷ USD) — 2022 — Doanh thu bán lẻ hàng hóa trực tuyến: 20
+5. Thái Lan (đơn vị: Tỷ USD) — 2022 — Doanh thu vận tải và thực phẩm: 3
+5. Thái Lan (đơn vị: Tỷ USD) — 2022 — Doanh thu du lịch trực tuyến: 3
+5. Thái Lan (đơn vị: Tỷ USD) — 2022 — Doanh thu nội dung nghe nhìn trực tuyến: 5
+5. Thái Lan (đơn vị: Tỷ USD) — 2022 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: -1%
+5. Thái Lan (đơn vị: Tỷ USD) — 2023 — Doanh thu bán lẻ hàng hóa trực tuyến: 22
+5. Thái Lan (đơn vị: Tỷ USD) — 2023 — Doanh thu vận tải và thực phẩm: 3
+5. Thái Lan (đơn vị: Tỷ USD) — 2023 — Doanh thu du lịch trực tuyến: 5
+5. Thái Lan (đơn vị: Tỷ USD) — 2023 — Doanh thu nội dung nghe nhìn trực tuyến: 5
+5. Thái Lan (đơn vị: Tỷ USD) — 2023 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 10%
+5. Thái Lan (đơn vị: Tỷ USD) — 2025 — Doanh thu bán lẻ hàng hóa trực tuyến: 30
+5. Thái Lan (đơn vị: Tỷ USD) — 2025 — Doanh thu vận tải và thực phẩm: 4
+5. Thái Lan (đơn vị: Tỷ USD) — 2025 — Doanh thu du lịch trực tuyến: 8
+5. Thái Lan (đơn vị: Tỷ USD) — 2025 — Doanh thu nội dung nghe nhìn trực tuyến: 7
+5. Thái Lan (đơn vị: Tỷ USD) — 2025 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 16%
+6. Malaysia (đơn vị: Tỷ USD) — 2022 — Doanh thu bán lẻ hàng hóa trực tuyến: 13
+6. Malaysia (đơn vị: Tỷ USD) — 2022 — Doanh thu vận tải và thực phẩm: 3
+6. Malaysia (đơn vị: Tỷ USD) — 2022 — Doanh thu du lịch trực tuyến: 3
+6. Malaysia (đơn vị: Tỷ USD) — 2022 — Doanh thu nội dung nghe nhìn trực tuyến: 3
+6. Malaysia (đơn vị: Tỷ USD) — 2022 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 4%
+6. Malaysia (đơn vị: Tỷ USD) — 2023 — Doanh thu bán lẻ hàng hóa trực tuyến: 13
+6. Malaysia (đơn vị: Tỷ USD) — 2023 — Doanh thu vận tải và thực phẩm: 3
+6. Malaysia (đơn vị: Tỷ USD) — 2023 — Doanh thu du lịch trực tuyến: 4
+6. Malaysia (đơn vị: Tỷ USD) — 2023 — Doanh thu nội dung nghe nhìn trực tuyến: 3
+6. Malaysia (đơn vị: Tỷ USD) — 2023 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: -4%
+6. Malaysia (đơn vị: Tỷ USD) — 2025 — Doanh thu bán lẻ hàng hóa trực tuyến: 16
+6. Malaysia (đơn vị: Tỷ USD) — 2025 — Doanh thu vận tải và thực phẩm: 4
+6. Malaysia (đơn vị: Tỷ USD) — 2025 — Doanh thu du lịch trực tuyến: 7
+6. Malaysia (đơn vị: Tỷ USD) — 2025 — Doanh thu nội dung nghe nhìn trực tuyến: 4
+6. Malaysia (đơn vị: Tỷ USD) — 2025 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 10%
+
+================================================================================
+TRANG 37 | section=chuong_2 | mode=layout | 2857 ký tự | TÍNH | OCR tesseract 5.3.4
+================================================================================
+7. Singapore
+Doanh thu bán lẻ hàng hóa trực tuyến | Doanh thu du lịch trực tuyến
+Doanh thu vận tải và thực phẩm | Doanh thu nội dung nghe nhìn trực tuyến
+Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến
+Đơn vị tính: Tỷ USD
+8. Việt Nam
+Doanh thu bán lẻ hàng hóa trực tuyến | Doanh thu du lịch trực tuyến
+Doanh thu vận tải và thực phẩm | Doanh thu nội dung nghe nhìn trực tuyến
+Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến
+Đơn vị tính: Tỷ USD
+
+[Số liệu biểu đồ đọc bằng OCR – Tesseract, vị trí và series lấy từ hình vẽ PDF]
+7. Singapore (đơn vị: Tỷ USD) — 2022 — Doanh thu bán lẻ hàng hóa trực tuyến: 8
+7. Singapore (đơn vị: Tỷ USD) — 2022 — Doanh thu vận tải và thực phẩm: 4
+7. Singapore (đơn vị: Tỷ USD) — 2022 — Doanh thu du lịch trực tuyến: 5
+7. Singapore (đơn vị: Tỷ USD) — 2022 — Doanh thu nội dung nghe nhìn trực tuyến: 2
+7. Singapore (đơn vị: Tỷ USD) — 2022 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 2%
+7. Singapore (đơn vị: Tỷ USD) — 2023 — Doanh thu bán lẻ hàng hóa trực tuyến: 8
+7. Singapore (đơn vị: Tỷ USD) — 2023 — Doanh thu vận tải và thực phẩm: 5
+7. Singapore (đơn vị: Tỷ USD) — 2023 — Doanh thu du lịch trực tuyến: 7
+7. Singapore (đơn vị: Tỷ USD) — 2023 — Doanh thu nội dung nghe nhìn trực tuyến: 3
+7. Singapore (đơn vị: Tỷ USD) — 2025 — Doanh thu bán lẻ hàng hóa trực tuyến: 10
+7. Singapore (đơn vị: Tỷ USD) — 2025 — Doanh thu vận tải và thực phẩm: 6
+7. Singapore (đơn vị: Tỷ USD) — 2025 — Doanh thu du lịch trực tuyến: 9
+7. Singapore (đơn vị: Tỷ USD) — 2025 — Doanh thu nội dung nghe nhìn trực tuyến: 4
+7. Singapore (đơn vị: Tỷ USD) — 2025 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 14%
+8. Việt Nam (đơn vị: Tỷ USD) — 2022 — Doanh thu bán lẻ hàng hóa trực tuyến: 15
+8. Việt Nam (đơn vị: Tỷ USD) — 2022 — Doanh thu vận tải và thực phẩm: 3
+8. Việt Nam (đơn vị: Tỷ USD) — 2022 — Doanh thu du lịch trực tuyến: 3
+8. Việt Nam (đơn vị: Tỷ USD) — 2022 — Doanh thu nội dung nghe nhìn trực tuyến: 5
+8. Việt Nam (đơn vị: Tỷ USD) — 2022 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 37%
+8. Việt Nam (đơn vị: Tỷ USD) — 2023 — Doanh thu bán lẻ hàng hóa trực tuyến: 16
+8. Việt Nam (đơn vị: Tỷ USD) — 2023 — Doanh thu vận tải và thực phẩm: 3
+8. Việt Nam (đơn vị: Tỷ USD) — 2023 — Doanh thu du lịch trực tuyến: 5
+8. Việt Nam (đơn vị: Tỷ USD) — 2023 — Doanh thu nội dung nghe nhìn trực tuyến: 5
+8. Việt Nam (đơn vị: Tỷ USD) — 2023 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 11%
+8. Việt Nam (đơn vị: Tỷ USD) — 2025 — Doanh thu bán lẻ hàng hóa trực tuyến: 24
+8. Việt Nam (đơn vị: Tỷ USD) — 2025 — Doanh thu vận tải và thực phẩm: 4
+8. Việt Nam (đơn vị: Tỷ USD) — 2025 — Doanh thu du lịch trực tuyến: 7
+8. Việt Nam (đơn vị: Tỷ USD) — 2025 — Doanh thu nội dung nghe nhìn trực tuyến: 7
+8. Việt Nam (đơn vị: Tỷ USD) — 2025 — Tốc độ tăng trưởng doanh thu bán lẻ hàng hóa trực tuyến: 22%
+
+================================================================================
+TRANG 38 | section=- | mode=plain | 0 ký tự | LOẠI
+================================================================================
+(trang trống)
+
+================================================================================
+TRANG 39 | section=chuong_3 | mode=plain | 54 ký tự | LOẠI
+================================================================================
+NGƯỜI TIÊU DÙNG THAM GIA THƯƠNG MẠI ĐIỆN TỬ
+CHƯƠNG III
+
+================================================================================
+TRANG 40 | section=chuong_3 | mode=plain | 903 ký tự | TÍNH
+================================================================================
+I. QUY MÔ THỊ TRƯỜNG THƯƠNG MẠI ĐIỆN TỬ BÁN LẺ TẠI VIỆT NAM
+8 Doanh thu TMĐT B2C Việt Nam bao gồm doanh thu tất cả hàng hóa, dịch vụ bán qua kênh TMĐT (loại trừ các giao dịch liên quan đến lĩnh vực tài chính, ngân hàng, tín
+dụng, bảo hiểm, trò chơi trực tuyến).
+9 Số liệu cập nhật đến 6 tháng đầu năm 2023. Nguồn: Bộ Thông tin và Truyền thông
+Doanh thu TMĐT B2C Việt Nam năm 2018 – 2023 (tỷ USD)8
+2018 2019 2020 2021 2022 2023
+Ước tính số lượng người tiêu dùng
+mua sắm trực tuyến (triệu người) 39,9 44,8 49,3 54,6 57,0 61
+Ước tính giá trị mua sắm trực tuyến
+của một người (USD) 202 225 240 251 288 336
+Tỷ trọng doanh thu TMĐT B2C so với
+tổng mức bán lẻ hàng hóa và doanh
+thu dịch vụ tiêu dùng cả nước
+4,2% 4,9% 5,5% 7% 7,5% 8%
+Tỷ lệ người dân sử dụng Internet9 60% 66% 70% 73% 73,2% 78,6%
+Doanh thu B2C Tỷ lệ tăng trưởng
+2018 2019 2020 2021
+18%
+16%
+25%
+30%8,06
+10,8
+11,8
+13,7
+16,4
+20,5
+20%
+25%
+2022 2023
+
+================================================================================
+TRANG 41 | section=chuong_3 | mode=layout | 411 ký tự | TÍNH
+================================================================================
+II. THÔNG TIN CHUNG VỀ KHẢO SÁT CỘNG ĐỒNG NGƯỜI TIÊU DÙNG10
+1. Độ tuổi người tham gia khảo sát
+2%
+Dưới 18
+16% | 22% | 18 - | 25
+26 - | 35
+27% | 36 - | 45
+33% | Trên | 45
+2. Nhóm nghề nghiệp của người tham gia khảo sát
+5% 7% | Lao động gián tiếp
+33% | Lao động trự c tiếp
+17%
+19% | 38% | Sinh | viên, học | sinh
+Nội | trợ
+Khá | c
+37%
+10 Số liệu được tổng từ kết quả khảo sát 20.069 cá nhân trên phạm vi toàn quốc
+
+================================================================================
+TRANG 42 | section=chuong_3 | mode=layout | 1252 ký tự | TÍNH
+================================================================================
+III. TÌNH HÌNH SỬ DỤNG INTERNET
+1. Phương tiện truy cập Internet của người dân
+94% | 90%
+63%
+50% | 2022
+2023
+14%
+10%
+Máy tính để bàn | Điện thoại di động | Thiết bị khác
+Máy tính xách tay | (Ipad, Máy tính bảng)
+2. Thời gian truy cập Internet trung bình mỗi ngày
+38% | 37%
+23% | 30%
+2022
+19% | 2023
+13%
+11% | 10% | 12%
+8%
+Dưới 3 tiếng | Từ 3 - 5 tiếng | Từ 5 -7 tiếng | Từ 7-9 tiếng | Trên 9 tiếng
+
+[Tiêu đề trục dọc] (Tỷ lệ người dùng Internet)
+
+[Biểu đồ cột đứng – nhãn và giá trị ghép tự động theo toạ độ]
+1. Phương tiện truy cập Internet của người dân — Máy tính để bàn Máy tính xách tay: 2022: 63%; 2023: 50%
+1. Phương tiện truy cập Internet của người dân — Điện thoại di động: 2022: 94%; 2023: 90%
+1. Phương tiện truy cập Internet của người dân — Thiết bị khác (Ipad, Máy tính bảng): 2022: 14%; 2023: 10%
+2. Thời gian truy cập Internet trung bình mỗi ngày — Dưới 3 tiếng: 2022: 11%; 2023: 23%
+2. Thời gian truy cập Internet trung bình mỗi ngày — Từ 3 - 5 tiếng: 2022: 38%; 2023: 37%
+2. Thời gian truy cập Internet trung bình mỗi ngày — Từ 5 -7 tiếng: 2022: 30%; 2023: 19%
+2. Thời gian truy cập Internet trung bình mỗi ngày — Từ 7-9 tiếng: 2022: 10%; 2023: 13%
+2. Thời gian truy cập Internet trung bình mỗi ngày — Trên 9 tiếng: 2022: 12%; 2023: 8%
+
+================================================================================
+TRANG 43 | section=chuong_3 | mode=layout | 430 ký tự | TÍNH
+================================================================================
+3. Mục đích sử dụng Internet
+Xem phim, nghe nhạc… | 59%
+Đọc báo | 51%
+Nghiên cứu, học tập | 48%
+Tìm kiếm thông tin mua hàng | 46%
+Tham gia diễn đàn, mạng xã hội | 46%
+Truy cập email | 34%
+Chơi game | 28%
+Hoạt động khác | 21%
+(Tỷ lệ người dùng Internet)
+IV. TÌNH HÌNH THAM GIA MUA SẮM TRỰC TUYẾN
+1. Phương thức mua sắm người tiêu dùng ưu tiên lựa chọn
+20% | Mua sắm qua mạng
+50% | Mua sắm truyền thống
+30% | Không có sự ưu tiên nào
+
+================================================================================
+TRANG 44 | section=chuong_3 | mode=layout | 722 ký tự | TÍNH
+================================================================================
+1.1 Lý do người tiêu dùng ưu tiên mua sắm qua mạng
+Nhiều chương trình khuyến mại | 51%
+Được đồng kiểm | 41%
+Phí vận chuyển thấp | 40%
+Dịch vụ trả hàng | 36%
+Được tư vấn nhiệt tình | 31%
+Bảo hành sản phẩm | 21%
+(Tỷ lệ người tiêu dùng trực tuyến)
+2. Tỷ lệ người dùng Internet tham gia mua sắm trực tuyến
+78%
+3. Cách thức tìm kiếm thông tin khi mua hàng trực tuyến
+Bạn bè, người thân giới thiệu trực tiếp | 53%
+Xem bình luận, đánh giá trên mạng | 52%
+(Mạng xã hội /sàn TMĐT)
+Qua quảng cáo trực tuyến | 52%
+(mạng xã hội/công cụ tìm kiếm/email quảng cáo)
+Xem quảng cáo truyền thống | 38%
+(tivi /báo điện tử /báo giấy)
+Website/ứng dụng đã thông báo/đăng ký với | 15%
+Bộ Công Thương
+Khác | 2% | (Tỷ lệ người tiêu dùng trực tuyến)
+
+================================================================================
+TRANG 45 | section=chuong_3 | mode=layout | 743 ký tự | TÍNH
+================================================================================
+4. Phương tiện điện tử thường được sử dụng để đặt hàng trực tuyến
+91% | 91%
+2022
+2023
+46%
+18% | 13%
+5%
+Điện thoại di động | TMá | y tính | để | bà nh iết | bị k | há c
+Máy | tính | xách tay | (I pa d, Máy | tính bảng)
+5. Loại hàng hóa, dịch vụ thường được mua trên mạng
+Quần áo, giày dép và mỹ phẩm | 63%
+Thiết bị đồ dùng gia đình | 53%
+Đồ công nghệ và điện tử | 39%
+Thực phẩm | 32%
+Sách, văn phòng phẩm, hoa, quà tặng | 31%
+Vé máy bay, tàu hỏa, ô tô | 17%
+Xem phim trực tuyến | 16%
+Vé xem phim, ca nhạc… | 14%
+Đặt chỗ khách sạn/tour du lịch | 14%
+Nhạc/Video/DVD/Game | 10%
+Dịch vụ tư vấn, đào tạo trực tuyến | 10%
+Dịch vụ spa và làm đẹp | 9%
+Ưu đãi dịch vụ trên các nền tảng | 7%
+Hàng hóa/dịch vụ khác | 12%
+(Tỷ lệ người tiêu dùng trực tuyến)
+
+[Tiêu đề trục dọc] (Tỷ lệ người dùng Internet)
+
+================================================================================
+TRANG 46 | section=chuong_3 | mode=layout | 1953 ký tự | TÍNH
+================================================================================
+6. Các kênh mua sắm trực tuyến người tiêu dùng ưa chuộng năm 2023
+61%
+55%
+34%
+21%
+4%
+Website TMĐT | Sàn giao dịch | Diễn đàn | Các ứng dụng | Hình thức khác
+bán hàng | TMĐT | mạng xã hội | mua hàng trên
+thiết bị di động
+6.1. Sàn giao dịch TMĐT lĩnh vực bán buôn bán lẻ người tiêu dùng ưa chuộng
+81%
+42%
+34%
+20%
+8% | 2%
+Shopee | Lazada | TikTok | Tiki | Sendo | Khác
+6.2. Sàn giao dịch TMĐT lĩnh vực dịch vụ vận tải người tiêu dùng ưa chuộng
+70%
+23%
+15% | 14%
+Grab | Be | GoJek | Khác
+
+[Tiêu đề trục dọc] (Tỷ lệ người dùng Internet)
+
+[Biểu đồ cột đứng – nhãn và giá trị ghép tự động theo toạ độ]
+6. Các kênh mua sắm trực tuyến người tiêu dùng ưa chuộng năm 2023 — Website TMĐT bán hàng: 34%
+6. Các kênh mua sắm trực tuyến người tiêu dùng ưa chuộng năm 2023 — Sàn giao dịch TMĐT: 61%
+6. Các kênh mua sắm trực tuyến người tiêu dùng ưa chuộng năm 2023 — Diễn đàn mạng xã hội: 55%
+6. Các kênh mua sắm trực tuyến người tiêu dùng ưa chuộng năm 2023 — Các ứng dụng mua hàng trên thiết bị di động: 21%
+6. Các kênh mua sắm trực tuyến người tiêu dùng ưa chuộng năm 2023 — Hình thức khác: 4%
+6.1. Sàn giao dịch TMĐT lĩnh vực bán buôn bán lẻ người tiêu dùng ưa chuộng — Shopee: 81%
+6.1. Sàn giao dịch TMĐT lĩnh vực bán buôn bán lẻ người tiêu dùng ưa chuộng — Lazada: 42%
+6.1. Sàn giao dịch TMĐT lĩnh vực bán buôn bán lẻ người tiêu dùng ưa chuộng — TikTok: 34%
+6.1. Sàn giao dịch TMĐT lĩnh vực bán buôn bán lẻ người tiêu dùng ưa chuộng — Tiki: 20%
+6.1. Sàn giao dịch TMĐT lĩnh vực bán buôn bán lẻ người tiêu dùng ưa chuộng — Sendo: 8%
+6.1. Sàn giao dịch TMĐT lĩnh vực bán buôn bán lẻ người tiêu dùng ưa chuộng — Khác: 2%
+6.2. Sàn giao dịch TMĐT lĩnh vực dịch vụ vận tải người tiêu dùng ưa chuộng — Grab: 70%
+6.2. Sàn giao dịch TMĐT lĩnh vực dịch vụ vận tải người tiêu dùng ưa chuộng — Be: 23%
+6.2. Sàn giao dịch TMĐT lĩnh vực dịch vụ vận tải người tiêu dùng ưa chuộng — GoJek: 15%
+6.2. Sàn giao dịch TMĐT lĩnh vực dịch vụ vận tải người tiêu dùng ưa chuộng — Khác: 14%
+
+================================================================================
+TRANG 47 | section=chuong_3 | mode=layout | 2176 ký tự | TÍNH
+================================================================================
+6.3. Sàn giao dịch TMĐT lĩnh vực dịch vụ giao đồ ăn người tiêu dùng ưa chuộng
+51% | 50%
+15% | 13%
+7%
+ShopeeFood, | Grab | Baemin | Be | Khác
+Foody
+6.4. Sàn giao dịch TMĐT lĩnh vực du lịch trực tuyến người tiêu dùng ưa chuộng
+50%
+26% | 24%
+14% | 9% | 8% | 16%
+Traveloka | Agoda | Gotadi | Tripi Partner | AirBnB | KhácBooking.com
+7. Hình thức thanh toán phổ biến
+76%
+60%
+20% | 14% | 21%
+6% | 3%
+Tiền mặt | Chuyển | Thẻ ATM | Thẻ tín dụng | Ví điện tử | Mobile | Trả góp
+khi nhận hàng | Khoản | nội địa | thẻ ghi nợ | Money | (mua trước
+trả sau)
+
+[Tiêu đề trục dọc] (Tỷ lệ người dùng Internet)
+
+[Biểu đồ cột đứng – nhãn và giá trị ghép tự động theo toạ độ]
+6.3. Sàn giao dịch TMĐT lĩnh vực dịch vụ giao đồ ăn người tiêu dùng ưa chuộng — ShopeeFood, Foody: 51%
+6.3. Sàn giao dịch TMĐT lĩnh vực dịch vụ giao đồ ăn người tiêu dùng ưa chuộng — Grab: 50%
+6.3. Sàn giao dịch TMĐT lĩnh vực dịch vụ giao đồ ăn người tiêu dùng ưa chuộng — Baemin: 15%
+6.3. Sàn giao dịch TMĐT lĩnh vực dịch vụ giao đồ ăn người tiêu dùng ưa chuộng — Be: 7%
+6.3. Sàn giao dịch TMĐT lĩnh vực dịch vụ giao đồ ăn người tiêu dùng ưa chuộng — Khác: 13%
+6.4. Sàn giao dịch TMĐT lĩnh vực du lịch trực tuyến người tiêu dùng ưa chuộng — Traveloka: 50%
+6.4. Sàn giao dịch TMĐT lĩnh vực du lịch trực tuyến người tiêu dùng ưa chuộng — Agoda: 26%
+6.4. Sàn giao dịch TMĐT lĩnh vực du lịch trực tuyến người tiêu dùng ưa chuộng — Booking.com: 24%
+6.4. Sàn giao dịch TMĐT lĩnh vực du lịch trực tuyến người tiêu dùng ưa chuộng — Gotadi: 14%
+6.4. Sàn giao dịch TMĐT lĩnh vực du lịch trực tuyến người tiêu dùng ưa chuộng — Tripi Partner: 9%
+6.4. Sàn giao dịch TMĐT lĩnh vực du lịch trực tuyến người tiêu dùng ưa chuộng — AirBnB: 8%
+6.4. Sàn giao dịch TMĐT lĩnh vực du lịch trực tuyến người tiêu dùng ưa chuộng — Khác: 16%
+7. Hình thức thanh toán phổ biến — Tiền mặt khi nhận hàng: 76%
+7. Hình thức thanh toán phổ biến — Chuyển Khoản: 60%
+7. Hình thức thanh toán phổ biến — Thẻ ATM nội địa: 20%
+7. Hình thức thanh toán phổ biến — Thẻ tín dụng thẻ ghi nợ: 14%
+7. Hình thức thanh toán phổ biến — Ví điện tử: 21%
+7. Hình thức thanh toán phổ biến — Mobile Money: 6%
+7. Hình thức thanh toán phổ biến — Trả góp (mua trước trả sau): 3%
+
+================================================================================
+TRANG 48 | section=chuong_3 | mode=layout | 655 ký tự | TÍNH
+================================================================================
+8. Số lượng hàng hóa/dịch vụ mua sắm trực tuyến trung bình của một người trong năm
+Dưới 5 sản phẩm/dịch vụ
+7% 5%
+29% | Từ 5 đến 10 sản phẩm/dịch vụ
+13% | Từ 10 đến 15 sản phẩm/dịch vụ
+Từ 15 đến 30 sản phẩm/dịch vụ
+21% | Từ 30 đến 50 sản phẩm/dịch vụ
+26%
+Trên 50 sản phẩm/dịch vụ
+9. Giá trị hàng hóa mua sắm trực tuyến của một người trong năm
+3% | Dưới 2 triệu đồng
+4%
+9% | Từ 2 triệu - 5 triệu đồng
+34% | Từ 5 triệu - 10 triệu đồng
+21% | Từ 10 triệu - 15 triệu đồng
+Từ 15 triệu - 20 triệu đồng
+29%
+Trên 20 triệu đồng
+10. Ước tính giá trị mua sắm trực tuyến trong tổng chi tiêu
+6% | Dưới 5%
+9%
+Từ 5% - 10%
+39%
+14% | Từ 10% - 15%
+Từ 15% - 20%
+32% | Trên 20%
+
+================================================================================
+TRANG 49 | section=chuong_3 | mode=layout | 617 ký tự | TÍNH
+================================================================================
+11. Tỷ lệ người tiêu dùng mua hàng qua các website TMĐT nước ngoài
+43% | 2021
+35% | 2022
+28%
+2023
+Người tiêu dùng mua hàng qua các các website nước ngoài
+11.1. Các hình thức mua hàng từ website TMĐT nước ngoài
+56% | 59%
+50% | 47% | 50%
+41% | 41% | 44%
+37% | 2021
+2022
+2023
+Trực tiếp trên | Thông qua | Thông qua người bán
+website quốc tế | website Việt Nam | trung gian trên mạng
+mua hộ hàng quốc tế | xã hội
+12. Tỷ lệ người tiêu dùng mua hàng của người bán nước ngoài trên sàn giao dịch TMĐT Việt Nam
+57%
+2021
+43%
+31% | 2022
+2023
+Người tiêu dùng đã từng mua hàng của thương nhân nước ngoài
+trên các sàn TMĐT Việt Nam
+
+[Tiêu đề trục dọc] (Tỷ lệ người tiêu dùng mua hàng từ; website TMĐT nước ngoài)
+
+================================================================================
+TRANG 50 | section=chuong_3 | mode=layout | 1824 ký tự | TÍNH
+================================================================================
+12.1. Lý do người tiêu dùng lựa chọn mua hàng của người bán nước ngoài trên sàn giao dịch TMĐT
+tại Việt Nam
+70% | 2021
+61% | 59% | 53% | 2022
+49%45% | 45% | 2023
+30%35% | 29%32%
+23%
+4% | 3% | 5%
+Giá cả rẻ hơn | Chất lượng | Hàng hóa | Chỉ có thương nhân | Khác
+sản phẩm | có thương hiệu | nước ngoài có bán
+tốt hơn | nước ngoài | mặt hàng đó
+13. Ước tính số lượng hàng hóa/dịch vụ người tiêu dùng đã mua qua mạng từ thương nhân nước
+ngoài
+6%
+13% | Dưới 5 sản phẩm/dịch vụ
+46% | Từ 5 đến 10 sản phẩm/dịch vụ
+Từ 10 đến 20 sản phẩm/dịch vụ
+35% | Trên 20 sản phẩm/dịch vu
+14. Ước tính giá trị mua hàng hóa/dịch vụ qua mạng từ thương nhân nước ngoài trong năm 2023
+4%
+9% | Dưới 1 triệu đồng
+38% | Từ 1 triệu - 3 triệu đồng
+21% | Từ 3 triệu - 5 triệu đồng
+Từ 5 triệu - 10 triệu đồng
+33% | Trên 10 triệu đồng
+
+[Tiêu đề trục dọc] (Tỷ lệ người tiêu dùng mua hàng; của người bán nước ngoài trên; sàn giao dịch TMĐT tại Việt Nam)
+
+[Biểu đồ cột đứng – nhãn và giá trị ghép tự động theo toạ độ]
+12.1. Lý do người tiêu dùng lựa chọn mua hàng của người bán nước ngoài trên sàn giao dịch TMĐT tại Việt Nam — Giá cả rẻ hơn: 2021: 61%; 2022: 70%; 2023: 59%
+12.1. Lý do người tiêu dùng lựa chọn mua hàng của người bán nước ngoài trên sàn giao dịch TMĐT tại Việt Nam — Chất lượng sản phẩm tốt hơn: 2021: 49%; 2022: 45%; 2023: 53%
+12.1. Lý do người tiêu dùng lựa chọn mua hàng của người bán nước ngoài trên sàn giao dịch TMĐT tại Việt Nam — Hàng hóa có thương hiệu nước ngoài: 2021: 23%; 2022: 30%; 2023: 35%
+12.1. Lý do người tiêu dùng lựa chọn mua hàng của người bán nước ngoài trên sàn giao dịch TMĐT tại Việt Nam — Chỉ có thương nhân nước ngoài có bán mặt hàng đó: 2021: 32%; 2022: 45%; 2023: 29%
+12.1. Lý do người tiêu dùng lựa chọn mua hàng của người bán nước ngoài trên sàn giao dịch TMĐT tại Việt Nam — Khác: 2021: 4%; 2022: 3%; 2023: 5%
+
+================================================================================
+TRANG 51 | section=chuong_3 | mode=layout | 1299 ký tự | TÍNH
+================================================================================
+V. ĐÁNH GIÁ MỨC ĐỘ HÀI LÒNG VỀ HOẠT ĐỘNG MUA SẮM TRỰC TUYẾN
+1. Mức độ hài lòng của người tiêu dùng trực tuyến
+53%
+47%
+42%
+32%
+2022
+2023
+14%
+8%
+1% | 3%
+Rất hài lòng | Hài lòng | Bình thường | Không hài lòng
+2. Tiêu chí người tiêu dùng trực tuyến quan tâm khi tham gia mua sắm
+Hàng hóa đa dạng, phong phú | 57%
+Hàng hóa chính hãng, chất lượng | 48%
+Uy tín của website/ứng dụng TMĐT, người bán | 40%
+Ưu đãi về giá cả (triển khai nhiều chương trình khuyến | 32%
+mại, giá rẻ hơn so với mua trực tiếp tại cửa hàng,...)
+Dịch vụ chăm sóc khách hàng hỗ trợ kịp thời, có thiện chí | 30%
+Có livestream giới thiệu về sản phẩm, trò chơi tương tác | 25%
+Trải nghiệm website/ ứng dụng dễ dàng, thân thiện | 24%
+Chi phí của dịch vụ vận chuyển | 23%
+Thông tin cá nhân được bảo mật | 22%
+Chất lượng của dịch vụ vận chuyển | 22%
+(Tỷ lệ người tiêu dùng trực tuyến)
+
+[Tiêu đề trục dọc] (Tỷ lệ người dùng trực tuyến)
+
+[Biểu đồ cột đứng – nhãn và giá trị ghép tự động theo toạ độ]
+1. Mức độ hài lòng của người tiêu dùng trực tuyến — Rất hài lòng: 2022: 14%; 2023: 8%
+1. Mức độ hài lòng của người tiêu dùng trực tuyến — Hài lòng: 2022: 53%; 2023: 42%
+1. Mức độ hài lòng của người tiêu dùng trực tuyến — Bình thường: 2022: 32%; 2023: 47%
+1. Mức độ hài lòng của người tiêu dùng trực tuyến — Không hài lòng: 2022: 1%; 2023: 3%
+
+================================================================================
+TRANG 52 | section=chuong_3 | mode=layout | 908 ký tự | TÍNH
+================================================================================
+3. Các trở ngại khi mua hàng trực tuyến
+Chất lượng kém so với quảng cáo | 54%
+Lo ngại thông tin cá nhân bị tiết lộ | 42%
+Giá cả (cao hơn mua trực tiếp/không rõ ràng) | 29%
+Chi phí vận chuyển cao | 29%
+Chất lượng dịch vụ vận chuyển và giao nhận kém | 21%
+Dịch vụ chăm sóc khách hàng kém | 18%
+Đặt hàng trực tuyến rắc rối | 18%
+Website/ứng dụng không chuyên nghiệp | 13%
+Thanh toán phức tạp | 12%
+Khác | 20%
+(Tỷ lệ người tiêu dùng)
+4. Lý do chưa mua sắm trực tuyến
+Mua hàng tại cửa hàng thuận tiện hơn | 40%
+Sợ lộ thông tin cá nhân | 29%
+Khó kiểm định chất lượng hàng hóa | 29%
+Không tin tưởng đơn vị bán hàng | 24%
+Hàng hóa, dịch vụ không phong phú | 18%
+Không có các loại thẻ thanh toán | 15%
+Chưa có kinh nghiệm mua bán trên mạng | 15%
+Không có nhu cầu mua bán | 14%
+Cách thức đặt hàng trực tuyến quá rắc rối | 13%
+Không có đủ thông tin để ra quyết định | 11%
+(Tỷ lệ người tiêu dùng chưa mua sắm trực tuyến)
+
+================================================================================
+TRANG 53 | section=chuong_4 | mode=plain | 66 ký tự | LOẠI
+================================================================================
+CHƯƠNG IV
+TÌNH HÌNH ỨNG DỤNG THƯƠNG MẠI ĐIỆN TỬ
+TRONG DOANH NGHIỆP
+
+================================================================================
+TRANG 54 | section=chuong_4 | mode=plain | 1095 ký tự | TÍNH
+================================================================================
+I. THÔNG TIN CHUNG VỀ DOANH NGHIỆP THAM GIA KHẢO SÁT11
+1. Loại hình doanh nghiệp tham gia khảo sát
+2. Lĩnh vực kinh doanh chủ yếu của doanh nghiệp
+11 Số liệu trong chương này được tổng hợp từ kết quả khảo sát 5.531 doanh nghiệp. Hình thức khảo sát là điền phiếu trực tiếp
+6%
+88%
+6%
+Doanh nghiệp Nhà nước
+Doanh nghiệp ngoài Nhà nước
+Doanh nghiệp có vốn đầu
+tư nước ngoài
+(Tỷ lệ doanh nghiệp tham gia khảo sát)
+24,3%
+1,0%
+1,6%
+1,9%
+2,0%
+2,1%
+2,7%
+2,9%
+3,6%
+3,8%
+4,2%
+5,5%
+7,2%
+8,0%
+10,9%
+13,0%
+19,6%
+23,8%
+Hoạt động dịch vụ khác
+Cung cấp nước; hoạt động quản lý và xử lý rác thải, …
+Hoạt động hành chính và dịch vụ hỗ trợ
+Y tế và hoạt động trợ giúp xã hội
+Giáo dục và đào tạo
+Nghệ thuật, vui chơi và giải trí
+Hoạt động chuyên môn, khoa học và công nghệ
+Hoạt động kinh doanh bất động sản
+Sản xuất và phân phối điện, khí đốt, nước nóng, hơi …
+Hoạt động tài chính, ngân hàng và bảo hiểm
+Thông tin và truyền thông
+Dịch vụ lưu trú và ăn uống
+Khai khoáng
+Vận tải, kho bãi
+Công nghiệp chế biến, chế tạo
+Nông nghiệp, lâm nghiệp và thủy sản
+Xây dựng
+Bán buôn và bán lẻ; sửa chữa ô tô, mô tô, xe máy và xe …
+
+================================================================================
+TRANG 55 | section=chuong_4 | mode=layout | 893 ký tự | TÍNH
+================================================================================
+3. Quy mô của doanh nghiệp tham gia khảo sát
+12%
+Doanh nghiệp vừ a và nhỏ
+Doanh nghiệp lớn
+88%
+II. MỨC ĐỘ SẴN SÀNG ỨNG DỤNG TMĐT CỦA DOANH NGHIỆP
+1. Hạ tầng công nghệ thông tin
+1.1. Các phần mềm phổ biến được doanh nghiệp sử dụng
+57%
+47%
+31% | 33%28%29%
+2022
+22% | 20% | 2023
+Quản lý nhân sự | Quản lý chuỗi | Quản lý chăm sóc | Quản trị
+cung ứng | khách hàng | doanh nghiệp
+
+[Tiêu đề trục dọc] (Tỷ lệ doanh nghiệp tham gia khảo sát)
+
+[Biểu đồ cột đứng – nhãn và giá trị ghép tự động theo toạ độ]
+1.1. Các phần mềm phổ biến được doanh nghiệp sử dụng — Quản lý nhân sự: 2022: 57%; 2023: 47%
+1.1. Các phần mềm phổ biến được doanh nghiệp sử dụng — Quản lý chuỗi cung ứng: 2022: 31%; 2023: 28%
+1.1. Các phần mềm phổ biến được doanh nghiệp sử dụng — Quản lý chăm sóc khách hàng: 2022: 33%; 2023: 29%
+1.1. Các phần mềm phổ biến được doanh nghiệp sử dụng — Quản trị doanh nghiệp: 2022: 22%; 2023: 20%
+
+================================================================================
+TRANG 56 | section=chuong_4 | mode=layout | 560 ký tự | TÍNH
+================================================================================
+1.2. Đánh giá của doanh nghiệp về hiệu quả của việc đầu tư vào hạ tầng CNTT và TMĐT trong hoạt động sản
+xuất, kinh doanh
+4%
+16% | Không hiệu quả
+Tương đối hiệu quả
+45% | Hiệu quả
+36%
+Rất hiệu quả
+1.3. Tình hình sử dụng các ứng dụng hỗ trợ trực tuyến OTT12 trong công việc của năm 2023
+18%
+Dưới 10%
+54% | Từ 10 - 50%
+28% | Trên 50%
+1.4. Đánh giá của doanh nghiệp về mức độ quan trọng của TMĐT trong hoạt động sản xuất, kinh doanh
+13% | 11%
+Không quan trọng
+Tương đối quan trọng
+31% | 45% | Quan trọng
+Rất quan trọng
+12 Zalo, Skype, Viber, Whatsapp, Telegram,...
+
+================================================================================
+TRANG 57 | section=chuong_4 | mode=layout | 358 ký tự | TÍNH
+================================================================================
+2. Nguồn nhân lực cho thương mại điện tử
+65% | doanh nghiệp ưu tiên tuyển dụng nhân sự được đào tạo về CNTT và TMĐT
+3. Tình hình sử dụng chữ ký số, hợp đồng và hóa đơn điện tử năm 2023
+80% | doanh nghiệp có sử dụng chữ ký điện tử
+41% | doanh nghiệp có sử dụng hợp đồng điện tử trong giao dịch
+22% | doanh nghiệp có sử dụng dịch vụ chứng thực hợp đồng điện tử
+
+================================================================================
+TRANG 58 | section=chuong_4 | mode=layout | 938 ký tự | TÍNH
+================================================================================
+III. DOANH NGHIỆP ỨNG DỤNG THƯƠNG MẠI ĐIỆN TỬ
+1. Thương mại điện tử trên nền tảng website
+1.1. Website của doanh nghiệp
+44% | doanh nghiệp sở hữu website, trong đó 42% website có tính năng đặt hàng trực tuyến.
+1.2. Mục đích xây dựng website của doanh nghiệp
+Xây dựng uy tín, quảng bá và nâng tầm thương hiệu | 81%
+Quảng cáo, tiếp thị, giới thiệu sản phẩm, dịch vụ | 76%
+Mở rộng khả năng tương tác, phản hồi từ khách hàng | 57%
+Thêm kênh bán buôn, bán lẻ sản phẩm, cung cấp dịch vụ | 45%
+đến khách hàng
+Mục đích khác | 1%
+(Tỷ lệ doanh nghiệp sở hữu website)
+1.3. Website tương tác trực tuyến với khách hàng
+66% | website của doanh nghiệp có tính năng tương tác trực tuyến13 với khách hàng
+Hình thức phản hồi trực tuyến với khách hàng
+66% | 61%
+44%
+2%
+Qua | nhân sự | phụQua | thông tinQua | chat bot | Hình | thứ | c khác
+trách | tư ơng tác liên hệ khách | tự động
+trực tiếp | hàng | để lại
+13 Facebook Messenger, Zalo, Viber, Whatsapp,...
+
+[Tiêu đề trục dọc] hợp tính năng tương tác trực; tiếp với khách hàng trên website); (Tỷ lệ doanh nghiệp có tích
+
+================================================================================
+TRANG 59 | section=chuong_4 | mode=layout | 666 ký tự | TÍNH
+================================================================================
+1.4. Doanh nghiệp tham gia kinh doanh trên sàn giao dịch TMĐT và mạng xã hội14
+65%
+58%
+2022
+23% | 23% | 2023
+Doanh nghiệp kinh doanh | Doanh nghiệp kinh doanh
+trên sàn giao dịch TMĐT | trên mạng xã hội
+2. Thương mại điện tử trên nền tảng di động
+2.1. Doanh nghiệp có website phiên bản di động và ứng dụng kinh doanh di động
+18% | Doanh nghiệp có website phiên bản di động
+19% | Doanh nghiệp có ứng dụng kinh doanh di động
+Doanh nghiệp cho phép người mua thực hiện toàn bộ
+41% | quá trình mua sắm trên website phiên bản di động
+Doanh nghiệp cho phép người mua thực hiện toàn bộ
+44% | quá trình mua sắm trên ứng dụng kinh doanh di động
+14 Facebook, Zalo, Instagram,...
+
+================================================================================
+TRANG 60 | section=chuong_4 | mode=layout | 901 ký tự | TÍNH
+================================================================================
+2.2. Trải nghiệm của khách hàng trên website phiên bản di động/ứng dụng kinh doanh di động của doanh
+nghiệp
+Thời gian trung bình lưu lại của khách hàng khi truy cập vào website phiên bản di động/ứng dụng kinh
+doanh di động của doanh nghiệp
+11%
+Dưới 5 phút
+35%
+20% | Từ 5 - 10 phút
+Từ 10 - 20 phút
+Trên 20 phút
+34%
+doanh nghiệp triển khai chương trình khuyến mại dành riêng cho
+37% | khách hàng trên ứng dụng di động
+IV. TÌNH HÌNH VẬN HÀNH WEBSITE, ỨNG DỤNG TMĐT DI ĐỘNG
+1. Quảng cáo website, ứng dụng di động TMĐT
+1.1 Hình thức quảng cáo website, ứng dụng TMĐT
+Quảng cáo thông qua mạng xã hội … | 54%
+Quảng cáo truyền thống (tổ chức sự … | 44%
+Quảng cáo trên các công cụ tìm kiếm … | 27%
+Quảng cáo qua email | 17%
+Quảng cáo trên các báo điện tử | 14%
+Quảng cáo qua người nổi tiếng … | 5%
+Hình thức quảng cáo khác | 1%
+Chưa hoạt động quảng cáo | 25%
+(Tỷ lệ doanh nghiệp sở hữu website/ứng dụng di động)
+
+================================================================================
+TRANG 61 | section=chuong_4 | mode=layout | 1159 ký tự | TÍNH
+================================================================================
+1.2. . Ước tính chi phí quảng cáo trung bình của doanh nghiệp
+63%
+25%
+7% | 2% | 3%
+Dưới 10 triệu | Từ 10 - 20 | Từ 20- 50 | Trên 50 - 100 | Trên 100
+đồng | triệu đồng | triệu đồng | triệu đồng | triệu đồng
+2. Tình hình vận hành website, ứng dụng di động TMĐT
+2.1. Đánh giá của doanh nghiệp về mức độ hiệu quả của các hình thức bán hàng
+Qua ứng dụng di động | 25% | 52% | 23%
+Qua website của doanh nghiệp | 23% | 53% | 24%
+Qua sàn giao dịch TMĐT | 26% | 51% | 24%
+Qua mạng xã hội | 16% | 50% | 34%
+(Tỷ lệ doanh nghiệp sở hữu website/ứng dụng di động)
+Thấp | Trung bình | Cao
+
+[Tiêu đề trục dọc] (Tỷ lệ doanh nghiệp sở hữu; website/ứng dụng di động)
+
+[Biểu đồ cột đứng – nhãn và giá trị ghép tự động theo toạ độ]
+1.2. . Ước tính chi phí quảng cáo trung bình của doanh nghiệp — Dưới 10 triệu đồng: 63%
+1.2. . Ước tính chi phí quảng cáo trung bình của doanh nghiệp — Từ 10 - 20 triệu đồng: 25%
+1.2. . Ước tính chi phí quảng cáo trung bình của doanh nghiệp — Từ 20- 50 triệu đồng: 7%
+1.2. . Ước tính chi phí quảng cáo trung bình của doanh nghiệp — Trên 50 - 100 triệu đồng: 2%
+1.2. . Ước tính chi phí quảng cáo trung bình của doanh nghiệp — Trên 100 triệu đồng: 3%
+
+================================================================================
+TRANG 62 | section=chuong_4 | mode=layout | 874 ký tự | TÍNH
+================================================================================
+2.2. Ngôn ngữ hiển thị trên website, ứng dụng TMĐT
+94%
+24%
+4% | 3%
+Tiếng Việt | Tiếng Anh | Tiếng Trung | Ngôn ngữ khác
+2.3. Hoạt động xuất nhập khẩu thông qua TMĐT
+13% | doanh nghiệp có sử dụng website/ứng dụng TMĐT phục vụ cho mục đích xuất nhập khẩu
+2.3.1. Hình thức xuất khẩu qua TMĐT doanh nghiệp sử dụng
+53%
+47%
+Xuất khẩu thông qua | Xuất khẩu thông qua
+sàn giao dịch TMĐT | website/ứng dụng tự xây dựng
+
+[Tiêu đề trục dọc] (Tỷ lệ doanh nghiệp sở hữu; website/ứng dụng di động); (Tỷ lệ doanh nghiệp tham gia; xuất khẩu qua TMĐT)
+
+[Biểu đồ cột đứng – nhãn và giá trị ghép tự động theo toạ độ]
+2.2. Ngôn ngữ hiển thị trên website, ứng dụng TMĐT — Tiếng Việt: 94%
+2.2. Ngôn ngữ hiển thị trên website, ứng dụng TMĐT — Tiếng Anh: 24%
+2.2. Ngôn ngữ hiển thị trên website, ứng dụng TMĐT — Tiếng Trung: 4%
+2.2. Ngôn ngữ hiển thị trên website, ứng dụng TMĐT — Ngôn ngữ khác: 3%
+
+================================================================================
+TRANG 63 | section=chuong_4 | mode=layout | 1068 ký tự | TÍNH
+================================================================================
+2.3.2. Quốc gia/khu vực doanh nghiệp xuất khẩu qua TMĐT
+45% | 40% | 38%
+15% | 14% | 10%
+Hàn Quốc | Nhật Bản | Trung Quốc | Liên minh | Hoa Kỳ | Quốc gia
+Châu Âu
+2.3.3. Ước tính giá trị xuất khẩu hàng hóa qua TMĐT trong tổng giá trị xuất khẩu hàng hóa của doanh nghiệp
+13% | 24%
+Dưới 10%
+Từ 10% - 20%
+30%
+Từ 20% - 30 %
+33% | Trên 30%
+2.3.4. Doanh nghiệp đánh giá mức độ hiệu quả ứng dụng TMĐT trong hoạt động xuất khẩu
+17% | 9%
+Không hiệu quả
+23% | Tương đối hiệu quả
+50% | Hiệu quả
+Rất hiệu quả
+
+[Tiêu đề trục dọc] (Tỷ lệ doanh nghiệp tham gia; xuất khẩu qua TMĐT)
+
+[Biểu đồ cột đứng – nhãn và giá trị ghép tự động theo toạ độ]
+2.3.2. Quốc gia/khu vực doanh nghiệp xuất khẩu qua TMĐT — Hàn Quốc: 45%
+2.3.2. Quốc gia/khu vực doanh nghiệp xuất khẩu qua TMĐT — Nhật Bản: 40%
+2.3.2. Quốc gia/khu vực doanh nghiệp xuất khẩu qua TMĐT — Trung Quốc: 38%
+2.3.2. Quốc gia/khu vực doanh nghiệp xuất khẩu qua TMĐT — Liên minh Châu Âu: 15%
+2.3.2. Quốc gia/khu vực doanh nghiệp xuất khẩu qua TMĐT — Hoa Kỳ: 14%
+2.3.2. Quốc gia/khu vực doanh nghiệp xuất khẩu qua TMĐT — Quốc gia: 10%
+
+================================================================================
+TRANG 64 | section=chuong_4 | mode=layout | 692 ký tự | TÍNH
+================================================================================
+V. CÁC DỊCH VỤ HỖ TRỢ THƯƠNG MẠI ĐIỆN TỬ
+1. Phương thức vận chuyển hàng hóa mà doanh nghiệp đang sử dụng
+67% | doanh nghiệp tự vận chuyển
+60% | doanh nghiệp sử dụng dịch vụ của bên thứ ba
+1% | sử dụng phương thức khác
+2. Tỷ lệ chi phí hoàn tất đơn hàng và giao hàng chặng cuối so với doanh thu từ hoạt động TMĐT
+của doanh nghiệp
+3%
+12% | Dưới 10%
+Từ 10% - 20%
+52% | Từ 20 % - 40 %
+33% | Trên 40%
+3. Phương thức thanh toán mà doanh nghiệp đang sử dụng
+Thanh toán tiền mặt | 88%
+Chuyển khoản Internet banking | 87%
+Ví điện tử | 22%
+Thẻ thanh toán nội địa | 15%
+Thẻ thanh toán quốc tế | 12%
+Tài khoản mobile, SMS | 9%
+Thanh toán qua mobile money | 6%
+Phương thức khác | 1% | (Tỷ lệ doanh nghiệp)
+
+================================================================================
+TRANG 65 | section=chuong_4 | mode=layout | 899 ký tự | TÍNH
+================================================================================
+4. Tỷ lệ doanh nghiệp cho phép khách hàng mua hàng trả góp
+18%
+VI. TÌNH HÌNH SỬ DỤNG DỊCH VỤ CÔNG TRỰC TUYẾN CỦA DOANH NGHIỆP
+1. Tỷ lệ doanh nghiệp có tra cứu thông tin trên website của cơ quan nhà nước
+60% | 60%
+2022
+36% | 36% | 2023
+4% | 4%
+Thường xuyên | Thỉnh thoảng | Chưa bao giờ
+2. Tỷ lệ doanh nghiệp có sử dụng dịch vụ công trực tuyến liên quan tới các thủ tục đăng ký, cấp
+phép, khai báo... được cung cấp trên website của cơ quan nhà nước
+86%
+83%
+
+[Tiêu đề trục dọc] (Tỷ lệ doanh nghiệp)
+
+[Biểu đồ cột đứng – nhãn và giá trị ghép tự động theo toạ độ]
+1. Tỷ lệ doanh nghiệp có tra cứu thông tin trên website của cơ quan nhà nước — Thường xuyên: 2022: 36%; 2023: 36%
+1. Tỷ lệ doanh nghiệp có tra cứu thông tin trên website của cơ quan nhà nước — Thỉnh thoảng: 2022: 60%; 2023: 60%
+1. Tỷ lệ doanh nghiệp có tra cứu thông tin trên website của cơ quan nhà nước — Chưa bao giờ: 2022: 4%; 2023: 4%
+
+================================================================================
+TRANG 66 | section=chuong_4 | mode=layout | 1040 ký tự | TÍNH
+================================================================================
+3. Các loại dịch vụ công trực tuyến mà doanh nghiệp đã sử dụng
+85%
+68%
+16% | 13% | 12%
+3%
+Khai báo | Đăng ký | Khai báo | Thủ tục tàu | Thủ tục cấp | Khác
+thuế điện tử | kinh doanh | hải quan | biển, nhập | giấy chứng nhận
+cảnh, xuất | xuất xứ điện tử
+cảnh, quá
+cảnh
+4. Đánh giá của doanh nghiệp về lợi ích của dịch vụ công trực tuyến
+1%
+Rất có | ích
+40% | 59% | Tư ơng | đối có ích
+Khô | ng có íc | h
+
+[Biểu đồ cột đứng – nhãn và giá trị ghép tự động theo toạ độ]
+3. Các loại dịch vụ công trực tuyến mà doanh nghiệp đã sử dụng — Khai báo thuế điện tử: 85%
+3. Các loại dịch vụ công trực tuyến mà doanh nghiệp đã sử dụng — Đăng ký kinh doanh: 68%
+3. Các loại dịch vụ công trực tuyến mà doanh nghiệp đã sử dụng — Khai báo hải quan: 16%
+3. Các loại dịch vụ công trực tuyến mà doanh nghiệp đã sử dụng — Thủ tục tàu biển, nhập cảnh, xuất cảnh, quá cảnh: 13%
+3. Các loại dịch vụ công trực tuyến mà doanh nghiệp đã sử dụng — Thủ tục cấp giấy chứng nhận xuất xứ điện tử: 12%
+3. Các loại dịch vụ công trực tuyến mà doanh nghiệp đã sử dụng — Khác: 3%
+
+================================================================================
+TRANG 67 | section=chuong_5 | mode=plain | 73 ký tự | LOẠI
+================================================================================
+TÌNH HÌNH HOẠT ĐỘNG CỦA CÁC WEBSITE, ỨNG DỤNG
+THƯƠNG MẠI ĐIỆN TỬ
+CHƯƠNG V
+
+================================================================================
+TRANG 68 | section=chuong_5 | mode=layout | 622 ký tự | TÍNH
+================================================================================
+I. THÔNG TIN CHUNG15
+28,8% | Website/ứ | ng | dụng
+TMĐT | bán hàng
+71,2% | Website/ứ | ng | dụng
+CCDV | TMĐT
+1. Website/ứng dụng TMĐT bán hàng
+1.1. Mô hình hoạt động
+Website/ứng dụng có
+tính năng bán hàng trực tuyến
+50,9% | 49,1%
+Website/ứng dụng chỉ
+giới thiệu sản phẩm, dịch vụ
+1.2. Nguồn vốn đầu tư chính của doanh nghiệp
+0,5% | 4,0%
+Vốn doanh nghiệp
+Vốn nhà nước
+Vốn đầu tư nước ngoài
+95,5%
+Tỷ lệ góp vốn trung bình của nhà đầu tư nước ngoài tại doanh nghiệp có vốn đầu tư nước ngoài: 84,5%
+15 Dữ liệu thu thập từ báo cáo về hoạt động cung cấp dịch vụ của thương nhân, tổ chức cung cấp dịch vụ TMĐT gửi Bộ Công Thương.
+
+================================================================================
+TRANG 69 | section=chuong_5 | mode=layout | 693 ký tự | TÍNH
+================================================================================
+2. Website/ứng dụng cung cấp dịch vụ TMĐT
+2.1. Mô hình hoạt động
+56,3%
+41,0%
+13,7%
+1,3%
+Sàn | giao dịch | Mạng | xã hội | có Website, | ứng | dụng Website, | ứng | dụng
+TMĐT | hoạt | động kinh | khuy | ến | mại | trự c đấu giá trự c tuy | ến
+doanh | tuy | ến
+2.2. Nguồn vốn đầu tư chính của doanh nghiệp
+1,1% 7,7%
+Vốn doanh nghiệp
+Vốn nhà nước
+Vốn đầu tư nước ngoài
+91,2%
+
+[Biểu đồ cột đứng – nhãn và giá trị ghép tự động theo toạ độ]
+2.1. Mô hình hoạt động — Sàn giao dịch TMĐT: 56,3%
+2.1. Mô hình hoạt động — Mạng xã hội có hoạt động kinh doanh: 41,0%
+2.1. Mô hình hoạt động — Website, ứng dụng khuyến mại trực tuyến: 13,7%
+2.1. Mô hình hoạt động — Website, ứng dụng đấu giá trực tuyến: 1,3%
+
+================================================================================
+TRANG 70 | section=chuong_5 | mode=layout | 487 ký tự | TÍNH
+================================================================================
+II. CÁC TIỆN ÍCH HỖ TRỢ ĐƯỢC CUNG CẤP TRÊN WEBSITE, ỨNG DỤNG DI ĐỘNG TMĐT
+1. Tỷ lệ website, ứng dụng TMĐT yêu cầu người dùng đăng ký thành viên khi mua hàng
+17,3% | website, ứng dụng TMĐT bán hàng
+36,4% | website, ứng dụng CCDV TMĐT
+2. Tỷ lệ website, ứng dụng TMĐT tích hợp mạng xã hội
+59,3%
+Mạng xã hội phổ biến nhất được tích hợp trên website/ứng dụng TMĐT
+Facbook | Instagram | Zalo | Telegram | TikTok | Twitter | Viber | Khác
+91,8% | 10,4% | 50,1% | 0,9% | 5,0% | 7,8% | 1,3% | 7,1%
+
+================================================================================
+TRANG 71 | section=chuong_5 | mode=layout | 320 ký tự | TÍNH
+================================================================================
+3. Triển khai xây dựng ứng dụng di động
+20,8% | website có ứng dụng cho phép tải về từ các kho ứng dụng
+21,8% | ứng dụng có triển khai các tính năng/chương trình
+khuyến mại riêng khác với website
+88,9% | 90,2% | 17,5% | 4,8%
+IOS | Android | Windows | Khác
+Tỷ lệ ứng dụng TMĐT được xây dựng trên các nền tảng/hệ điều hành
+
+================================================================================
+TRANG 72 | section=chuong_5 | mode=layout | 353 ký tự | TÍNH
+================================================================================
+4. Thanh toán
+4.1. Tỷ lệ đơn hàng được thanh toán qua các hình thức
+Ti ền | Th ẻ | Th ẻ | Hìn | h
+mặt | Ví điện | th an h | Mob | il e | th ức
+(C OD | ) | tử | toán nộ | i toán | Mon | ey | kh ác
+địa | quốc | tế
+Website, ứng dụng | 50,6 | % | 2,8% | 3,1% | 2,8% | 1,4%
+TMĐT bán hàng
+Website, ứng dụng
+CCDV TMĐT | 46,3 | % | 31,7 | % | 7,5% | 3,6% | 0,7%
+
+================================================================================
+TRANG 73 | section=chuong_5 | mode=layout | 515 ký tự | TÍNH
+================================================================================
+4.2. Doanh thu thanh toán không dùng tiền mặt trong tổng doanh thu
+38,1%
+25,4%
+12,3% | 11,3 %
+8,5%
+4,4%
+Dư | ới 10% | 10 - | 30% | 30 - | 40% | 40 - | 60% | 60 - | 80% | Trên | 80%
+5. Chính sách và dịch vụ hỗ trợ
+5.1. Tính năng hỗ trợ trực tuyến
+92,1% | website, ứng dụng TMĐT có tính năng hỗ trợ trực tuyến
+Các hình thức hỗ trợ người dùng trên website, ứng dụng di động
+93,2% | 59,0% | 59,1% | 3,7%
+Hỗ trợ qua | Hỗ trợ qua | Hỗ trợ qua | Hỗ trợ qua
+điện thoại, hotline | tư vấn trực tuyến | e-mail | hình thức khác
+
+[Tiêu đề trục dọc] (Tỷ lệ website, ứng dụng TMĐT)
+
+================================================================================
+TRANG 74 | section=chuong_5 | mode=layout | 251 ký tự | TÍNH
+================================================================================
+5.2. Phương thức giao hàng được sử dụng phổ biến
+Website, ứng dụng | Website, ứng dụng
+TMĐT bán hàng | CCDV TMĐT
+Nhân viên công ty giao hàng | 50,6% | 46,3%
+Thuê dịch vụ giao hàng | 34,1% | 31,7%
+Kết hợp cả hai | 2,8% | 7,5%
+Không hỗ trợ | 3,1% | 4,6%
+
+================================================================================
+TRANG 75 | section=chuong_5 | mode=layout | 478 ký tự | TÍNH
+================================================================================
+5.3. Các chính sách, cơ chế hỗ trợ khách hàng
+Website, ứng dụng | Website, ứng dụng
+TMĐT bán hàng | CCDV TMĐT
+Chính sách bảo hành, | 77,3% | 74,1%
+bảo trì sản phẩm, dịch vụ
+Chính sách đổi trả hàng | 77,1% | 77,5%
+và hoàn tiền
+Chính sách giải quyết | 81,0% | 85,9%
+tranh chấp, khiếu nại
+Chính sách bảo vệ | 91,5% | 93,4%
+thông tin cá nhân
+Cơ chế và quy trình rà soát | 79,0% | 86,5%
+và kiểm duyệt thông tin
+Cơ chế cho phép
+khách hàng kiểm hàng | 69,8% | 71,9%
+trước khi nhận hàng
+
+================================================================================
+TRANG 76 | section=chuong_5 | mode=layout | 1214 ký tự | TÍNH
+================================================================================
+III. TÌNH HÌNH KINH DOANH TRÊN WEBSITE, ỨNG DỤNG TMĐT BÁN HÀNG
+1. Hàng hóa, dịch vụ được mua, sử dụng nhiều nhất trên website, ứng dụng TMĐT bán hàng
+Thự | c phẩm | , thự | c phẩm | chứ | c năng, làm đẹp, sức khỏe | 20,4%
+Đồ điện | tử | 18,0%
+Nhà | cửa – đờ | i sốn | g | 12,5%
+Thời trang – phụ kiện, đồ chơi – mẹ và bé | 9,5%
+Dịch vụ nội dung số & giá trị gia tăng; tên miền, hosting,phần mềm,
+thiết kế website; quảng cáo, quảng cáo trực tuyến, tổ chức sự kiện. | 9,1%
+Ô tô – xe máy – xe đạp & phụ kiện, thể thao – dã ngoại – du lịch | 5,4%
+Dịch vụ y tế, chăm sóc sức khỏe, làm đẹp | 4,8%
+Dịch vụ đào tạo, đào tạo trực tuyến; tư vấn hồ sơ, pháp lý, thuế, tài chính, | 3,5%
+quản lý, v.v..; môi giới việc làm, tư vấn du học; tư vấn, thiết kế xây dựng, kiến trúc
+Sách – VPP – quà tặng; phiếu mua hàng, | 3,3%
+sử dụng dịch vụ; thẻ khách hàng thường xuyên
+Dịch vụ vé máy bay, đặt chỗ; | 2,6%
+lưu trú và du lịch; ăn uống, ẩm thực
+Dịch vụ gọi xe; giao, đặt đồ ăn; | 0,9%
+vận tải, giao hàng, logistics
+Dịch vụ mua hàng quốc tế, mua hộ | 0,1%
+Sản phẩm, dịch vụ khác | 29,0%
+(Tỷ lệ website, ứng dụng TMĐT bán hàng)
+2. Phạm vi hoạt động của website, ứng dụng TMĐT bán hàng
+13,8%
+Toàn quốc
+Trên địa bàn 1 tỉnh/thành phố
+86,2%
+
+================================================================================
+TRANG 77 | section=chuong_5 | mode=layout | 532 ký tự | TÍNH
+================================================================================
+3. Tỷ lệ số lượng đơn hàng thành công của website, ứng dụng TMĐT bán hàng tại một số tỉnh/
+thành phố
+TP. | Hồ Chí | Minh | 34,6%
+Hà Nội | 21,8%
+Bìn | h | Dương | 3,7%
+Đồng | Nai | 3,2 %
+Đà Nẵng | 3,0%
+Cần | Thơ | 2,6 | %
+Hải Phòng | 2,5%
+Bà Rịa – | Vũng | Tàu | 2,1%
+Lon | g An | 1,7%
+Hải D | ươn | g | 1,7%
+Bắc Ninh | 1,6%
+Quảng | Ninh 1,6%
+Lâm | Đồng | 1,6%
+Nghệ | An 1,5%
+Khá | nh H | òa | 1,5%
+Vĩn | h Phúc | 1,4%
+Hư | ng | Yên | 1,4%
+Than | h Hóa | 1,4%
+Nam | Định | 1,3%
+Thái | Nguyên | 1,2%
+Các tỉnh/thành | phố còn | lại8,8%
+
+================================================================================
+TRANG 78 | section=chuong_5 | mode=layout | 1357 ký tự | TÍNH
+================================================================================
+4. Thị phần TMĐT bán hàng16
+4.1. Danh sách website TMĐT bán hàng có chức năng đặt hàng trực tuyến dẫn đầu về doanh thu
+STT | Website/ứng dụng | Tên doanh nghiệp
+1 | abay.vn | Công ty TNHH Vé máy bay trực tuyến Abay
+2 | AhaMove | Công Ty Cổ Phần Dịch Vụ Tức Thời
+3 | amway.com.vn | Công ty TNHH Amway Việt Nam
+4 | bachhoaxanh.com | Công ty Cổ phần Thương Mại Bách Hoá Xanh
+5 | Con Cưng | Công ty Cổ Phần Con Cưng
+6 | dienmayxanh.com | Công ty Cổ phần Thế Giới Di Động
+7 | dsvn.vn | Tổng công ty Đường sắt Việt Nam
+8 | esale.zing.vn | Công ty Cổ phần VNG
+9 | hanoicomputer.vn | Công ty Cổ phần Đầu tư Công nghệ HACOM
+10 | iNET.vn | Công ty TNHH Phần mềm INET
+11 | Karavan | Công ty Cổ phần KARAVAN Việt Nam
+12 | mygbvs.groz-beckert.com | Công ty TNHH Bán hàng & Dịch vụ GROZ-BECKERT
+Tại Việt Nam
+13 | nuskin.com | Công ty TNHH Nu Skin Enterprises Việt Nam
+14 | oriflame.vn | Công ty TNHH ORIFLAME Việt Nam
+15 | Telio | Công ty TNHH Telio Việt Nam
+16 | thegioididong.com | Công ty Cổ phần Thế Giới Di Động
+17 | ushop.unicity.com | Công ty TNHH Unicity Marketing Việt Nam
+18 | viettelpost.com.vn | Tổng Công ty Cổ phần Bưu Chính Viettel
+19 | vn.myherbalife.com | Công ty TNHH MTV Herbalife Việt Nam
+20 | wework.com | Công ty TNHH WeWork Việt Nam
+16 Dữ liệu được tổng hợp từ báo cáo tình hình hoạt động TMĐT năm 2022 của 2.030 doanh nghiệp gửi về Bộ Công Thương.
+
+================================================================================
+TRANG 79 | section=chuong_5 | mode=layout | 1112 ký tự | TÍNH
+================================================================================
+IV. TÌNH HÌNH KINH DOANH TRÊN WEBSITE, ỨNG DỤNG CUNG CẤP DỊCH VỤ TMĐT
+1. Lĩnh vực hoạt động của website, ứng dụng TMĐT
+Bán buôn, bán | lẻ | hàng | hóa | 55,3%
+Dịch | vụ | rao | vặt | (việc | l àm , bất | động | sả | n, | xe | cộ)8,5%
+Dịch | vụ | du | lịch | trực | tuy ến, | OTAs5,4%
+Dịch | vụ | giao , | đặt | đồ ă | n4,6%
+Dịch | vụ | đặt | phòng k hác | h | sạ n 4,1%
+Dịch | vụ | gọi | xe | công | ng | hệ ( | xe | ôm , taxi | )3,1%
+Dịch | vụ | vận c | huy | ển, | giao nhậ | n | hàng | hóa3,0%
+Dịch | vụ | nội | dung | số | (nhạc | , phi | m, v ideo…)2,7%
+Dịch | vụ | giáo | dục t | rực | tuy ến1,9%
+Dịch | vụ | xe | khác | h đường | dài 1,3%
+Dịch | vụ | tổ | chứ | c | sự | kiện ( | cư ới hỏi | , si nh | nhật | , …0,9%
+Dịch | vụ | mua hà | ng | quốc t | ế, | mua | hộ 0,6%
+Dịch | vụ | khác | 30,1%
+(Tỷ lệ website, ứng dụng CCDV TMĐT)
+2. Hoạt động của người bán nước ngoài trên website/ứng dụng TMĐT 17
+2.1. Tỷ lệ website/ứng dụng cung cấp dịch vụ TMĐT có gian hàng của người bán nước ngoài
+3,9%
+Có
+Không
+96,1%
+17 Số liệu phần này tổng hợp từ các website, ứng dụng CCDV TMĐT có người bán nước ngoài hoạt động
+
+================================================================================
+TRANG 80 | section=chuong_5 | mode=layout | 499 ký tự | TÍNH
+================================================================================
+2.2. Lượng gian hàng của người bán nước ngoài trên website, ứng dụng TMĐT
+Tỷ | lệ | số lư | ợng | gian hàng
+93,7% | 95,3% | ngư | ời | bán | trong nước
+Tỷ | lệ | số lư | ợng | gian hàng
+ngư | ời | bán | nư ớc ngoài
+6,3% | 4,7%
+202 | 1 | 202 | 2
+2.3. Lượng đơn hàng thành công của người bán nước ngoài trên website, ứng dụng TMĐT
+93,1% | Tỷ | lệ | số lư | ợng | gian hàng
+92,2% | ngư | ời | bán | trong nước
+Tỷ | lệ | số lư | ợng | gian hàng
+ngư | ời | bán | nư ớc ngoài
+6,9% | 7,8%
+202 | 1 | 202 | 2
+
+================================================================================
+TRANG 81 | section=chuong_5 | mode=layout | 546 ký tự | TÍNH
+================================================================================
+3. Tình hình hoạt động của website/ứng dụng cung cấp dịch vụ TMĐT theo địa phương
+3.1. Tỷ lệ người bán theo địa phương
+TP. | Hồ Chí | Minh | 37,3 %
+Hà Nội | 21,5%
+Đà Nẵng | 4,2 | %
+Bình | Dư | ơng | 3,9%
+Cần | Thơ | 2,9 %
+Đồng Nai | 2,4 %
+Hải Phòng | 1,9 %
+Lâm | Đồng | 1,8 %
+Nghệ An | 1,8 %
+Khá | nh H | òa 1,7%
+Bà Rịa - Vũng | Tàu | 1,6%
+Lon | g An | 1,5%
+Hải Dư | ơng1,2 %
+Hư | ng Yên | 1,0%
+Vĩn | h Phúc | 1,0 %
+Quảng | Ninh1,0%
+Than | h Hóa | 1,0%
+Nam | Định | 1,0%
+Bắc Ninh | 0,9%
+Thái | Nguyên | 0,6 %
+Các tỉnh/thành phố còn | lại | 10,0 %
+
+================================================================================
+TRANG 82 | section=chuong_5 | mode=layout | 490 ký tự | TÍNH
+================================================================================
+3.2. Tỷ lệ số lượng đơn hàng thành công theo địa phương
+TP . Hồ Chí | Minh | 24,1%
+Hà Nội | 12,4%
+Đà Nẵng | 5,1 %
+Bình | Dư | ơng | 4,7 %
+Đồng Nai | 4,1 %
+Cần | Thơ | 4,1 %
+Bà Rịa - Vũng | Tàu | 4,0 %
+Khá | nh Hòa | 3,3 %
+Nghệ | An | 3,3%
+Lâm | Đồng | 3,2%
+Quảng | Ninh | 2,8 %
+Lon | g An | 2,8 %
+Hải Phòng | 2,8 %
+Hải Dư | ơng | 2,5 %
+Bắc Ninh | 2,5 %
+Thái | Nguyên | 2,3 %
+Than | h Hóa | 2,2%
+Vĩn | h Phúc | 2,2%
+Nam | Định | 2,2 %
+Hư | ng Yên | 2,2 %
+Các tỉnh/thành phố còn | lại | 7,1 %
+
+================================================================================
+TRANG 83 | section=chuong_5 | mode=plain | 1087 ký tự | TÍNH
+================================================================================
+4. Thị phần dịch vụ TMĐT 18
+4.1. Nhóm doanh nghiệp dẫn đầu thị trường cung cấp dịch vụ TMĐT
+18 Dữ liệu được tổng hợp từ báo cáo tình hình hoạt động TMĐT năm 2022 của 797 doanh nghiệp CCDVTMĐT gửi về Bộ Công Thương.
+STT Website/ứng dụng Tên doanh nghiệp
+1 Baemin Công ty TNHH Woowa Brothers Việt Nam
+2 Be Công ty Cổ phần BE GROUP
+3 GoJek Công ty Cổ phần Thương mại Công nghệ Go Viet
+4 Grab Công ty TNHH Grab
+5 Lazada Công ty TNHH Recess
+6 Shopee Công ty TNHH Shopee
+7 ShopeeFood Công ty Cổ phần Foody
+8 Tiki Công ty TNHH TI KI
+9 TIKTOK TIKTOK PTE. LTD.
+10 Traveloka Công ty TNHH Traveloka Việt Nam
+4.2. Nhóm doanh nghiệp dẫn đầu thị trường cung cấp dịch vụ TMĐT bán buôn bán lẻ
+STT Website/ứng dụng Tên doanh nghiệp
+1 Lazada Công ty TNHH Recess
+2 samsung.com.vn Công Ty TNHH Điện Tử Samsung Vina
+3 Selly Công ty TNHH Selly
+4 Sendo Công ty Cổ Phần Công Nghệ Sen Đỏ
+5 Shopee Công ty TNHH Shopee
+6 thuocsi.vn Công ty TNHH Buymed
+7 Tiki Công ty TNHH TI KI
+8 TIKTOK TIKTOK PTE. LTD.
+9 VinShop Công ty cổ phần One Mount Distribution
+10 Voso Công ty TNHH MTV Thương mại Điện tử Bưu Chính VIETTEL
+
+================================================================================
+TRANG 84 | section=chuong_5 | mode=plain | 609 ký tự | TÍNH
+================================================================================
+4.3. Nhóm doanh nghiệp dẫn đầu thị trường cung cấp dịch vụ TMĐT gọi xe 19
+19 Taxi, xe ôm
+STT Website/ứng dụng Tên doanh nghiệp
+1 Be Công ty Cổ phần BE GROUP
+2 GoJek Công ty Cổ phần Thương mại Công nghệ Go Viet
+3 Grab Công ty TNHH Grab
+4 GV Ship Công Ty Cổ Phần GV ASIA
+5 HeyU Công ty Cổ phần công nghệ HeyU Việt Nam
+4.4. Nhóm doanh nghiệp dẫn đầu thị trường cung cấp dịch vụ TMĐT giao đồ ăn
+STT Website/ứng dụng Tên doanh nghiệp
+1 Baemin Công ty TNHH Woowa Brothers Việt Nam
+2 Be Công ty Cổ phần BE GROUP
+3 Grab Công ty TNHH Grab
+4 ShopeeFood, Foody Công ty Cổ phần Foody
+5 Utop Công ty Cổ phần Công nghệ UTOP
+
+================================================================================
+TRANG 85 | section=chuong_5 | mode=plain | 855 ký tự | TÍNH
+================================================================================
+STT Website/ứng dụng Tên doanh nghiệp
+1 Traveloka Công ty TNHH Traveloka Việt Nam
+2 Gotadi Công ty Cổ phần Công nghệ du lịch Gotadi
+3 Tripi Partner Công ty Cổ phần du lịch Việt Nam Vntravel
+4 Travellink.vn Công ty Cổ phần Công nghệ và Truyền thông VNLINK
+5 Onedanang.vn Công ty TNHH Truyền Thông và Công nghệ One Office
+4.5. Nhóm doanh nghiệp dẫn đầu thị trường cung cấp dịch vụ TMĐT du lịch trực tuyến
+V. KHÓ KHĂN, TRỞ NGẠI KHI VẬN HÀNH WEBSITE, ỨNG DỤNG DI ĐỘNG
+Doanh nghiệp đánh giá về khó khăn, trở ngại khi vận hành website, ứng dụng di động theo thang điểm từ 0 - 2
+(không cản trở: 0, cản trở nhiều: 2).
+Khó khăn, trở ngại khi vận hành website, ứng dụng TMĐT Mức độ khó khăn
+Vận chuyển, giao nhận 0,64
+Thu hút khách hàng (marketing, khuyến mại….) 1,06
+Vận hành website (nguồn nhân lực, an ninh mạng…) 0,89
+Đầu tư cho công nghệ 0,93
+Chi phí khác 0,68
+
+================================================================================
+TRANG 86 | section=- | mode=plain | 0 ký tự | LOẠI
+================================================================================
+(trang trống)
+
+================================================================================
+TRANG 87 | section=phu_luc | mode=plain | 7 ký tự | LOẠI
+================================================================================
+PHỤ LỤC
+
+================================================================================
+TRANG 88 | section=phu_luc | mode=plain | 1326 ký tự | TÍNH
+================================================================================
+PHỤ LỤC: BẢNG CẬP NHẬT KHUNG PHÁP LÝ CƠ BẢN VỀ THƯƠNG MẠI ĐIỆN TỬ
+Thời gian
+ban hành Luật Trạng thái hiệu lực
+24/11/2023 Luật viễn thông (sửa đổi) 1/7/2024
+22/6/2023 Luật Giao dịch điện tử (sửa đổi) 01/7/2024
+20/6/2023 Luật Bảo vệ quyền lợi người tiêu dùng (sửa đổi) 01/7/2024
+16/6/2022 Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ 01/03/2022
+11/01/2022
+Luật sửa đổi, bổ sung một số điều của Luật Đầu tư công, Luật Đầu tư
+theo phương thức đối tác công tư, Luật Đầu tư, Luật Nhà ở, Luật Đấu
+thầu, Luật Điện lực, Luật Doanh nghiệp, Luật Thuế tiêu thụ đặc biệt và
+Luật Thi hành án dân sự
+01/03/2022
+18/06/2020 Luật Đầu tư Hết hiệu lực một phần
+17/06/2020 Luật Doanh nghiệp Hết hiệu lực một phần
+14/6/2019 Luật Phòng, Chống tác hại của rượu, bia (PCTHRB)
+14/6/2019 Luật Thi hành án hình sự
+13/6/2019 Luật Quản lý Thuế
+12/6/2018 Luật An ninh mạng
+12/06/2018 Luật Cạnh tranh
+20/6/2017 Luật Sửa đổi, bổ sung một số điều của Bộ Luật hình sự
+12/6/2017 Luật Quản lý ngoại thương (QLNT)
+12/6/2017 Luật Hỗ trợ doanh nghiệp nhỏ và vừa Hết hiệu lực một phần
+06/04/2016 Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng, Luật Thuế tiêu thụ đặc biệt và Luật Quản lý thuế
+27/11/2015 Bộ Luật Hình sự Hết hiệu lực một phần
+24/11/2015 Bộ Luật Dân sự
+19/11/2015 Luật An toàn thông tin mạng (ATTTM) Hết hiệu lực một phần
+
+================================================================================
+TRANG 89 | section=phu_luc | mode=plain | 1757 ký tự | TÍNH
+================================================================================
+21/06/2012 Luật Quảng cáo Hết hiệu lực một phần
+23/11/2009 Luật Viễn Thông Hết hiệu lực một phần
+29/6/2006 Luật Công nghệ thông tin (CNTT) Hết hiệu lực một phần
+29/11/2005 Luật Giao dịch điện tử (GDĐT)
+14/06/2005 Luật Thương mại Hết hiệu lực một phần
+Nghị định hướng dẫn Luật Văn bản bên trên
+26/4/2023 Nghị định số 17/2023/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Sở hữu trí tuệ về quyền tác giả, quyền liên quan Luật Sở hữu trí tuệ
+17/4/2023 Nghị định số 13/2023/NĐ-CP bảo vệ dữ liệu cá nhân
+30/10/2022
+Nghị định 91/2022/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định
+số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy
+định chi tiết một số điều của Luật Quản lý thuế
+Luật Quản lý
+thuế
+01/10/2022
+Nghị định số 71/2022/NĐ-CP sửa đổi , bổ sung một số điều của Nghị định
+số 06/2016/NĐ-CP ngày 18 tháng 01 năm 2016 của Chính phủ về quản lý,
+cung cấp và sử dụng dịch vụ phát thanh, truyền hình
+25/09/2021
+Nghị định 85/2021/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định
+số 52/2013/NĐ-CP ngày 16 tháng 5 năm 2013 của Chính phủ về thương
+mại điện tử
+Luật GDĐT
+26/08/2021 Nghị định 80/2021/NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa
+Luật hỗ
+trợ doanh
+nghiệp nhỏ
+và vừa
+20/07/2021
+Nghị định 70/2021/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định
+số 181/2013/NĐ-CP ngày 14 tháng 11 năm 2013 của Chính phủ quy
+định chi tiết thi hành một số điều của Luật Quảng cáo
+Luật quảng
+cáo
+01/4/2021 Nghị định 47/2021/NĐ-CP quy định chi tiết một số điều của Luật Doanh nghiệp Luật Doanh nghiệp
+26/3/2021 Nghị định 31/2021/NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư Luật Đầu tư
+04/01/2021 Nghị định 01/2021/NĐ-CP về đăng ký doanh nghiệp Luật Doanh nghiệp
+
+================================================================================
+TRANG 90 | section=phu_luc | mode=plain | 2397 ký tự | TÍNH
+================================================================================
+19/10/2020 Nghị định 126/2020/NĐ-CP quy định chi tiết một số điều của Luật Quản lý thuế Luật Quản lý thuế
+14/8/2020 Nghị định 91/2020/NĐ-CP chống tin nhắc rác, thư điện tử rác, cuộc gọi rác Luật Quảng cáo
+08/4/2020 Nghị định 45/2020/NĐ-CP về thực hiện thủ tục hành chính trên môi trường điện tử Luật GDĐT
+24/02/2020 Nghị định 24/2020/NĐ-CP quy định chi tiết một số điều của Luật Phòng, chống tác hại của rượu, bia Luật PCTHRB
+17/01/2020 Nghị định 10/2020/NĐ-CP quy định về kinh doanh và điều kiện kinh doanh vận tải bằng xe ô tô Luật Đầu tư
+24/12/2018 Nghị định 165/2018/NĐ-CP về giao dịch điện tử trong hoạt động tài chính Luật GDĐT
+27/9/2018 Nghị định 130/2018/NĐ-CP quy định chi tiết thi hành Luật giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số Luật GDĐT
+12/9/2018 Nghị định 119/2018/NĐ-CP quy định về hóa đơn điện tử khi bán hàng hóa, cung cấp dịch vụ Luật GDĐT
+11/3/2018 Nghị định 39/2018/NĐ-CP quy định chi tiết một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa Luật HTDNNVV
+01/3/2018 Nghị định số 28/2018/NĐ-CP quy định chi tiết Luật Quản lý ngoại thương về một số biện pháp phát triển ngoại thương Luật QLNT
+01/3/2018
+Nghị định 27/2018/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định
+số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản
+lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng
+Luật CNTT
+15/01/2018
+Nghị định 09/2018/NĐ-CP quy định chi tiết Luật Thương mại và Luật
+Quản lý ngoại thương về hoạt động mua bán hàng hóa và các hoạt
+động liên quan trực tiếp đến mua bán hàng hóa của nhà đầu tư nước
+ngoài , tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam
+Luật Thương
+mại,
+15/01/2018
+Nghị định 08/2018/NĐ-CP sửa đổi một số Nghị định liên quan đến điều
+kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Công
+Thương
+Hết hiệu lực một
+phần
+Luật Thương
+mại
+24/4/2017
+Nghị định 49/2017/NĐ-CP sửa đổi, bổ sung Điều 15 của Nghị định số
+25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 của Chính phủ quy định chi
+tiết và hướng dẫn thi hành một số điều của Luật viễn thông và Điều
+30 của Nghị định số 174/2013/NĐ-CP ngày 13 tháng 11 năm 2013 của
+Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực bưu
+chính, viễn thông, công nghệ thông tin và tần số vô tuyến điện
+Luật Viễn
+thông
+24/12/2016 Nghị định 166/2016/NĐ-CP quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp Hết hiệu lực một phần
+
+================================================================================
+TRANG 91 | section=phu_luc | mode=plain | 2120 ký tự | TÍNH
+================================================================================
+21/11/2016
+Nghị định 156/2016/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định
+số 27/2007/NĐ-CP ngày 23/02/2007 của Chính phủ về giao dịch điện tử
+trong hoạt động tài chính
+Luật GDĐT
+1/7/2016
+Nghị định 80/2016/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định
+số 101/2012/NĐ-CP ngày 22 tháng 11 năm 2012 của Chính phủ về
+thanh toán không dùng tiền mặt
+Luật CNTT
+1/7/2016
+Nghị định 81/2016/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định
+số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 của Chính phủ quy định
+chi tiết và hướng dẫn thi hành một số điều của Luật viễn thông
+Luật Viễn
+thông
+14/11/2013 Nghị định 181/2013/NĐ-CP quy định chi tiết thi hành một số điều của Luật Quảng cáo Hết hiệu lực một phần Luật Quảng cáo
+08/11/2013 Nghị định 154/2013/NĐ-CP quy định về khu công nghệ thông tin tập trung Luật CNTT
+15/7/2013 Nghị định 72/2013/NĐ-CP của Chính phủ về Quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng Luật CNTT
+16/5/2013 Nghị định 52/2013/NĐ-CP về Thương mại điện tử Hết hiệu lực một phần Luật GDĐT
+22/11/2012
+Nghị định 101/2012/NĐ-CP về thanh toán không dùng tiền mặt (thay
+thế Nghị định số 64/2001/NĐ-CP về hoạt động thanh toán qua các tổ
+chức cung ứng dịch vụ thanh toán)
+Luật CNTT
+13/6/2011
+Nghị định 43/2011/NĐ-CP quy định về việc cung cấp thông tin và dịch
+vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin
+điện tử của cơ quan nhà nước
+Luật CNTT
+06/4/2011 Nghị định 25/2011/NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông Luật Viễn thông
+08/3/2007 Nghị định 35/2007/NĐ-CP về giao dịch điện tử trong hoạt động ngân hàng Luật GDĐT
+23/02/2007 Nghị định 27/2007/NĐ-CP về giao dịch điện tử trong hoạt động tài chính Luật GDĐT
+Xử lý vi phạm Văn bản bên trên
+31/01/2022
+Nghị định số 17/2022/NĐ-CP sửa đổi, bổ sung một số điều của các nghị
+định quy định về xử phạt vi phạm hành chính trong lĩnh vực hóa chất và
+vật liệu nổ công nghiệp; điện lực, an toàn đập thủy điện, sử dụng năng
+lượng tiết kiệm và hiệu quả; hoạt động thương mại, sản xuất, buôn bán
+hàng giả, hàng cấm và bảo vệ quyền lợi người tiêu dùng; hoạt động
+dầu khí, kinh doanh xăng dầu và khí
+
+================================================================================
+TRANG 92 | section=phu_luc | mode=plain | 2193 ký tự | TÍNH
+================================================================================
+27/01/2022
+Nghị định 14/2022/NĐ-CP sửa đổi bổ sung một số điều của Nghị định
+số 15/2020/NĐ-CP ngày 03 tháng 02 năm 2020 của Chính phủ quy
+định xử phạt vi phạm hành chính trong lĩnh vực bưu chính viễn thông
+tần số vô tuyến điện công nghệ thông tin và giao dịch điện tử và NĐ
+119/2020/NĐ-CP ngày 07 tháng 10 năm 2020
+27/01/2022
+26/8/2020
+Nghị định số 98/2020/NĐ-CP quy định xử phạt vi phạm hành chính
+trong hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng cấm
+và bảo vệ quyền lợi người tiêu dùng
+18/5/2020
+Nghị định 54/2020/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định
+số 127/2015/NĐ-CP ngày 14 tháng 12 năm 2015 của Chính phủ về tổ
+chức và hoạt động thanh tra ngành Công Thương
+07/7/2020
+03/02/2020
+Nghị định 15/2020/NĐ-CP quy định về xử phạt hành chính trong lĩnh
+vực bưu chính, viễn thông, tần số vô tuyến điện, công nghệ thông tin
+và giao dịch điện tử
+Hết hiệu lực một
+phần
+Luật Viễn
+thông, Luật
+CNTT, Luật
+GDĐT, Luật
+A TTTM
+24/4/2017
+Nghị định 49/2017/NĐ-CP sửa đổi, bổ sung Điều 15 của Nghị định số
+25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 của Chính phủ quy định chi
+tiết và hướng dẫn thi hành một số điều của Luật viễn thông và Điều
+30 của Nghị định số 174/2013/NĐ-CP ngày 13 tháng 11 năm 2013 của
+Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực bưu
+chính, viễn thông, công nghệ thông tin và tần số vô tuyến điện
+20/3/2017
+Nghị định 28/2017/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định
+số 131/2013/NĐ-CP ngày 16 tháng 10 năm 2013 của Chính phủ quy
+định xử phạt vi phạm hành chính về quyền tác giả, quyền liên quan và
+Nghị định số 158/2013/NĐ-CP ngày 12 tháng 11 năm 2013 của Chính
+phủ quy định xử phạt vi phạm hành chính trong lĩnh vực văn hóa, thể
+thao, du lịch và quảng cáo
+14/12/2015 Nghị định 127/2015/NĐ-CP về tổ chức và hoạt động thanh tra ngành Công Thương
+07/4/2014 Nghị định 25/2014/NĐ-CP quy định về phòng, chống tội phạm và vi phạm pháp luật khác có sử dụng công nghệ cao
+13/11/2013
+Nghị định 174/2013/NĐ-CP quy định xử phạt vi phạm hành chính trong
+lĩnh vực bưu chính, viễn thông, công nghệ thông tin và tần số vô tuyến
+điện
+12/11/2013 Nghị định 158/2013/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực văn hóa, thể thao du lịch và quảng cáo
+
+================================================================================
+TRANG 93 | section=phu_luc | mode=plain | 2368 ký tự | TÍNH
+================================================================================
+Thông tư hướng dẫn thi hành một số nội dung của Nghị định
+18/01/2022
+Thông tư 01/2022/TT-BCT sửa đổi, bổ sung một số điều của Thông tư
+số 47/2014/TT-BCT ngày 05/12/2014 của Bộ Công Thương quy định về
+quản lý website thương mại điện tử và Thông tư số 59/2015/TT-BCT
+ngày 31/12/2015 của Bộ Công Thương quy định về quản lý hoạt động
+thương mại điện tử qua ứng dụng trên thiết bị di động
+08/03/2022
+Nghị định
+số 52/2013/
+NĐ-CP
+13/12/2021
+Thông tư 22/2021/TT-BTTTT quy định chi tiết một số điều của Nghị
+định số 91/2020/NĐ-CP ngày 14/8/2020 của Chính phủ về chống tin
+nhắn rác, thư điện tử rác, cuộc gọi rác
+01/03/2022
+Nghị định
+số 91/2020/
+NĐ-CP
+08/12/2021
+Thông tư 21/2021/TT-BTTTT sửa đổi, bổ sung một số điều Thông tư số
+24/2015/TT-BTTTT ngày 18/8/2015 của Bộ Thông tin và Truyền thông
+về quản lý và sử dụng tài nguyên Internet
+07/02/2022
+Nghị định
+số 72/2013/
+NĐ-CP
+15/11/2021
+Thông tư 100/2021/TT-BTC sửa đổi, bổ sung một số điều của Thông tư
+số 40/2021/TT-BTC ngày 01/6/2021 của Bộ trưởng Bộ Tài chính hướng
+dẫn thuế giá trị gia tăng, thuế thu nhập cá nhân và quản lý thuế đối với
+hộ kinh doanh, cá nhân kinh doanh
+01/01/2022
+29/09/2021
+Thông tư 80/2021/TT-BTC hướng dẫn thi hành một số điều của Luật
+Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm
+2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế
+01/01/2022
+Nghị định
+126/2020/
+NĐ-CP
+01/6/2021
+Thông tư 40/2021/TT-BTC hướng dẫn thuế giá trị gia tăng, thuế thu
+nhập cá nhân và quản lý thuế đối với hộ kinh doanh, cá nhân kinh
+doanh
+01/8/2021
+18/3/2021 Thông tư 19/2021/TT-BTC hướng dẫn giao dịch điện tử trong lĩnh vực thuế Nghị định 126/2020/NĐ-CP
+30/10/2020
+Thông tư 88/2020/TT-BTC sửa đổi, bổ sung Điều 26 Thông tư số
+68/2019/TT-BTC ngày 30 tháng 9 năm 2019 của Bộ Tài chính hướng dẫn
+thực hiện một số điều của Nghị định số 119/2018/NĐ-CP ngày 12 tháng
+9 năm 2018 của Chính phủ quy định về hóa đơn điện tử khi bán hàng
+hóa, cung cấp dịch vụ
+Nghị định số
+119/2018/
+NĐ-CP
+07/08/2020
+Thông tư 73/2020/TT-BTC sửa đổi, bổ sung một số điều của Thông tư
+số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài
+chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán
+Nghị định
+số 27/2007/
+NĐ-CP
+18/12/2019
+Thông tư 42/2019/TT-BCT sửa đổi, bổ sung một số quy định về chế độ
+báo cáo định kỳ tại các Thông tư do Bộ trưởng Bộ Công Thương ban
+hành hoặc liên tịch ban hành
+
+================================================================================
+TRANG 94 | section=phu_luc | mode=plain | 2131 ký tự | TÍNH
+================================================================================
+30/9/2019
+Thông tư 68/2019/TT-BTC hướng dẫn thực hiện một số điều của Nghị
+định số 119/2018/NĐ-CP ngày 12 tháng 9 năm 2018 của chính phủ quy
+định về hóa đơn điện tử khi bán hàng hóa, cung cấp dịch vụ
+31/8/2018
+Thông tư 21/2018/TT-NHNN sửa đổi, bổ sung một số điều của Thông tư
+số 37/2016/TT-NHNN ngày 30 tháng 12 năm 2016 của Thống đốc Ngân
+hàng Nhà nước Việt Nam quy định về việc quản lý, vận hành và sử dụng
+Hệ thống Thanh toán điện tử liên ngân hàng Quốc gia
+28/8/2018 Thông tư 19/2018/TT-NHNN hướng dẫn về quản lý ngoại hối đối với hoạt động thương mại biên giới Việt Nam – Trung Quốc
+20/8/2018
+Thông tư 21/2018/TT-BCT sửa đổi một số điều của Thông tư số
+47/2014/TT-BCT ngày 05/12/2014 của Bộ Công Thương quy định về
+quản lý website thương mại điện tử và Thông tư số 59/2015/TT-BCT
+ngày 31/12/2015 của Bộ Công Thương quy định về quản lý hoạt động
+thương mại điện tử qua ứng dụng trên thiết bị di động
+19/12/2017 Thông tư 134/2017/TT-BTC hướng dẫn giao dịch điện tử trên thị trường chứng khoán Nghị định số 27/2007/NĐ-CP
+19/12/2017 Thông tư 41/2017/TT-BTTTT quy định sử dụng chữ ký số cho văn bản điện tử trong cơ quan nhà nước Nghị định số 26/2007/NĐ-CP
+27/4/2017
+Thông tư 37/2017/TT-BTC sửa đổi, bổ sung Thông tư số 39/2014/TT-BTC
+ngày 31/3/2014 của Bộ Tài chính, thông tư số 26/2015/TT-BTC ngày
+27/02/2015 của Bộ Tài chính
+14/10/2016
+Thông tư 30/2016/TT-NHNN sửa đổi, bổ sung một số Thông tư quy định
+về hoạt động cung ứng dịch vụ thanh toán và dịch vụ trung gian thanh
+toán
+Hết hiệu lực một
+phần
+30/6/2016
+Thông tư 20/2016/TT-NHNN sửa đổi, bổ sung một số điều của Thông
+tư số 36/2012/TT-NHNN ngày 28/12/2012 quy định về trang bị, quản lý,
+vận hành và đảm bảo an toàn hoạt động của máy giao dịch tự động và
+Thông tư số 39/2014/TT-NHNN ngày 11/12/2014 hướng dẫn về dịch vụ
+trung gian thanh toán
+06/6/2016
+Thông tư 04/2016/TT-BCT sửa đổi, bổ sung một số Thông tư của Bộ
+trưởng Bộ Công Thương về thủ tục hành chính trong lĩnh vực thương
+mại điện tử, hóa chất, sản xuất kinh doanh rượu, nhượng quyền thương
+mại, hoạt động mua bán hàng hóa qua sở giao dịch hàng hóa, năng
+lượng, an toàn thực phẩm và điện lực
+Hết hiệu lực một
+phần
+
+================================================================================
+TRANG 95 | section=phu_luc | mode=plain | 2288 ký tự | TÍNH
+================================================================================
+31/12/2015 Thông tư 59/2015/TT-BCT quy định về quản lý hoạt động thương mại điện tử qua ứng dụng trên thiết bị di động Hết hiệu lực một phần Nghị định số 52/2013/NĐ-CP
+18/8/2015 Thông tư 24/2015/TT-BTTTT quy định về quản lý và sử dụng tài nguyên Internet Hết hiệu lực một phần Nghị định số 72/2013/NĐ-CP
+22/06/2015
+Thông tư 96/2015/TT-BTC Hướng dẫn về thuế thu nhập doanh nghiệp
+tại Nghị định số 12/2015/NĐ-CP ngày 12/2/2015 của Chính phù quy
+định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật
+về thuế và sửa đổi bổ sung một số điều của các Nghị định về thuế và
+sửa đổi, bổ sung một số điều của Thông tư số 78/2014/TT-BTC ngày
+18/6/2014, Thông tư số 119/2014/TT-BTC ngày 25/8/2014, Thông tư số
+151/2014/TT-BTC ngày 10/10/2014 của Bộ Tài chính
+Nghị định
+số 12/2015/
+NĐ-CP
+27/02/2015
+Thông tư 26/2015/TT-BTC hướng dẫn về thuế gỉá trị gia tăng và quản
+lý thuế tai Nghị đinh số 12/2015/NĐ-CP ngày 12 tháng 2 năm 2015
+của Chính phủ quy định chi tỉết thi hành Luật sửa đổi, bổ sung một
+số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các
+Nghị định về thuế và sửa đổỉ, bổ sung môt số điều của Thông tư số
+39/2014/TT-BTC ngày 31/3/2014 của Bộ Tài chính về hóa đơn bán hàng
+hóa, cung ứng dịch vụ
+Hết hiệu lực một
+phần
+Nghị đinh
+số 12/2015/
+NĐ-CP
+31/12/2014 Thông tư 46/2014/TT-NHNN hướng dẫn về dịch vụ thanh toán không dùng tiền mặt Nghị định số101/2012/NĐ-CP
+05/12/2014
+Thông tư số 47/2014/TT-BCT quy định về quản lý website thương mại
+điện tử (thay thế Thông tư số 12/2013/TT-BCT quy định thủ tục thông
+báo, đăng ký và công bố thông tin liên quan đến website thương mại
+điện tử)
+Hết hiệu lực một
+phần
+Nghị định
+số 52/2013/
+NĐ-CP
+25/08/2014
+Thông tư 119/2014/TT-BTC sửa đổi, bổ sung một số điều của Thông tư
+số 156/2013/TT-BTC ngày 06/11/2013, Thông tư số 111/2013/TT-BTC
+ngày 15/8/2013, Thông tư số 219/2013/TT-BTC ngày 31/12/2013, Thông
+tư số 08/2013/TT-BTC ngày 10/01/2013, Thông tư số 85/2011/TT-BTC
+ngày 17/6/2011, Thông tư số 39/2014/TT-BTC ngày 31/3/2014 và Thông
+tư số 78/2014/TT-BTC ngày 18/6/2014 của Bộ Tài chính để cải cách, đơn
+giản các thủ tục hành chính về thuế
+Hết hiệu lực một
+phần
+06/8/2014
+Thông tư hướng dẫn thực hiện nghĩa vụ thuế áp dụng đối với tổ chức,
+cá nhân nước ngoài kinh doanh tại Việt Nam hoặc có thu nhập phát
+sinh tại Việt Nam
+
+================================================================================
+TRANG 96 | section=phu_luc | mode=plain | 2091 ký tự | TÍNH
+================================================================================
+06/12/2013
+Thông tư 10/2013/TT-BVHTTDL Quy định chi tiết và hướng dẫn thực
+hiện một số điều của Luật Quảng cáo và Nghị định số 181/2013/NĐ-CP
+ngày 14 tháng 11 năm 2013 của Chính phủ quy định chi tiết thi hành
+một số điều của Luật Quảng cáo
+Nghị định số
+181/2013/
+NĐ-CP
+28/6/2013 Thông tư 87/2013/TT-BTC hướng dẫn giao dịch điện tử trên thị trường chứng khoán
+10/07/2012
+Thông tư 10/2012/TT-BTTTT Ban hành Danh mục dịch vụ viễn thông
+quy định tại khoản 1 điều 3 Nghị định số 25/2011/NĐ-CP ngày 06 tháng
+4 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một
+số điều của Luật Viễn thông
+Nghị định
+số 25/2011/
+NĐ-CP
+10/9/2012
+Thông tư liên tịch số 10/2012/TTLT-BCA-BQP-BTP-BTTTT-VKSNDTC-
+TANDTC hướng dẫn áp dụng quy định của Bộ Luật hình sự về một số tội
+phạm trong lĩnh vực công nghệ thông tin và truyền thông
+Bộ Luật
+Hình sự
+31/3/2011
+Thông tư 08/2011/TT-BTTTT sửa đổi thông tư 37/2009/TT-BTTTT quy
+định về hồ sơ và thủ tục liên quan đến cấp phép, đăng ký, công nhận
+các tổ chức cung cấp dịch vụ chứng thực chữ ký số do Bộ trưởng Bộ
+Thông tin và Truyền thông ban hành
+14/3/2011 Thông tư 32/2011/TT-BTC hướng dẫn về khởi tạo, phát hành và sử dụng hóa đơn điện tử bán hàng hóa, cung ứng dịch vụ Nghị định số 27/2007/NĐ-CP
+15/11/2010
+Thông tư 25/2010/TT-BTTTT quy định việc thu thập, sử dụng, chia sẻ,
+đảm bảo an toàn và bảo vệ thông tin cá nhân trên trang thông tin điện
+tử hoặc cổng thông tin điện tử của cơ quan nhà nước
+Nghị định
+số 64/2007/
+NĐ-CP
+14/12/2009
+Thông tư 37/2009/TT-BTTTT quy định về hồ sơ và thủ tục liên quan đến
+cấp phép, đăng ký, công nhận các tổ chức cung cấp dịch vụ chứng thực
+chữ ký số
+Hết hiệu lực một
+phần
+Nghị định
+số 26/2007/
+NĐ-CP
+02/03/2009
+Thông tư 03/2009/TT-BTTTT quy định về mã số quản lý và mẫu giấy
+chứng nhận mã số quản lý đối với nhà cung cấp dịch vụ quảng cáo
+bằng thư điện tử, tin nhắn; nhà cung cấp dịch vụ tin nhắn qua mạng
+Internet
+Nghị định
+số 90/2008/
+NĐ-CP
+15/09/2008
+Thông tư 78/2008/TT-BTC hướng dẫn thi hành một số nội dung của
+Nghị định số 27/2007/ NĐ-CP về giao dịch điện tử trong hoạt động tài
+chính
+Nghị định
+số 27/2007/
+NĐ-CP
+
+================================================================================
+TRANG 97 | section=- | mode=plain | 0 ký tự | LOẠI
+================================================================================
+(trang trống)
+
+================================================================================
+TRANG 98 | section=- | mode=plain | 405 ký tự | LOẠI
+================================================================================
+Chịu trách nhiệm xuất bản
+Giám đốc - Tổng Biên Tập
+NGUYỄN MINH HUỆ
+Biên tập viên
+ĐỒNG THỊ THU THUỶ
+Chủ biên
+LÊ HOÀNG OANH
+Cục trưởng Cục Thương mại điện tử và Kinh tế số
+Biên soạn nội dung
+LẠI VIỆT ANH - LÊ THỊ HÀ
+NGUYỄN HỮU TUẤN - LÊ THỊ THU HẰNG - ĐỖ QUANG HUY
+Bản quyền thuộc về
+CỤC THƯƠNG MẠI ĐIỆN TỬ VÀ KINH TẾ SỐ
+BỘ CÔNG THƯƠNG
+www.idea.gov.vn
+THƯƠNG MẠI ĐIỆN TỬ VIỆT NAM NĂM 2023
+Thông tin xuất bản
+
+================================================================================
+TRANG 99 | section=- | mode=plain | 0 ký tự | LOẠI
+================================================================================
+(trang trống)
+
+================================================================================
+TRANG 100 | section=- | mode=plain | 109 ký tự | LOẠI
+================================================================================
+BỘ CÔNG THƯƠNG
+CỤC THƯƠNG MẠI ĐIỆN TỬ VÀ KINH TẾ SỐ
+25 NGÔ QUYỀN, HOÀN KIẾM, HÀ NỘI, VIỆT NAM
+WWW.IDEA.GOV.VN
