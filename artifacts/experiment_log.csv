@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size (ký tự; cắt lùi về khoảng trắng gần nhất trong 40 ký tự),500,50,"document_id, source, page, section, year, language, chart_heavy",không,aisingapore/SEA-LION-E5-Embedding-600M (local CPU; 1024d; query prompt Retrieval; L2-norm; pgvector HNSW cosine),"Baseline: cửa sổ cố định đơn giản, nhiều chunk nhỏ nên dễ trúng câu ngắn nhưng hay cắt mất điều kiện/ngoại lệ","9/15","14/15","1/5","3/5","232 chunk; embed 166.9s; chi phí 0; coherence 0.8/2; grounding 1.2/2; trượt q06, t01, t02"
+B,by_paragraph (heading + kết câu; gộp đoạn; gắn heading gần nhất làm ngữ cảnh; không vượt trang),"≤1000 (dung sai +200 cho đoạn ngắn; min 200)",0,"như A + heading, heading_prefixed",không,như A,"Chunk theo cấu trúc giữ trọn điều khoản và ngoại lệ, nên tăng Hit@1 và grounding cho câu điều kiện/ngoại lệ (A–B chỉ đổi chunking)","9/15","13/15","4/5","4/5","173 chunk; embed 212.1s; chi phí 0; coherence 1.5/2; grounding 1.6/2; trượt q02, q11, t01"
+C,giống B (dùng chung index B),như B,0,như B,"section = giá trị người dùng cung cấp trước (chỉ q14, q15, t01, t05); câu khác không lọc",như A,"Lọc theo section loại chunk ngoài phạm vi và tăng tuân thủ filter mà không đổi chunk (B–C chỉ đổi filter)","9/15","13/15","4/5","4/5","0 embedding thêm; tuân thủ filter dev 2/2 (B 1/2), test 2/2; grounding 1.6/2; trượt q02, q11, t01; chiến lược được chọn"

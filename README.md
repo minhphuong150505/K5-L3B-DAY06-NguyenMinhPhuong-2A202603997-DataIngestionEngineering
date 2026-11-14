@@ -1,5 +1,8 @@
 # Day 06 · Data Ingestion Engineering
 
+> **Bài làm — Nguyễn Minh Phương (2A202603997, L3B):** corpus *Sách trắng TMĐT Việt Nam 2023*, embedding local `aisingapore/SEA-LION-E5-Embedding-600M`, PostgreSQL + pgvector.
+> Setup và lệnh chạy: [starter/README.md](starter/README.md) · Báo cáo: [report/individual/2A202603997_NguyenMinhPhuong.md](report/individual/2A202603997_NguyenMinhPhuong.md) · Kết quả: [starter/results/run_report.md](starter/results/run_report.md) · Nhãn chấm tay: [starter/results/manual_labels.md](starter/results/manual_labels.md) · Manifest: [data/manifest.json](data/manifest.json) · Benchmark: [benchmark/](benchmark/) · Experiment log: [artifacts/experiment_log.csv](artifacts/experiment_log.csv)
+
 **Lab cá nhân** · **4 giờ** · **Dữ liệu tự chọn**
 
 Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, rồi đo xem cách chuẩn bị dữ liệu nào hiệu quả nhất.
