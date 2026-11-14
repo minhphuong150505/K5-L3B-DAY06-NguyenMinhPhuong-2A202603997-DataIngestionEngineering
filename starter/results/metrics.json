@@ -1,0 +1,355 @@
+{
+  "meta": {
+    "run_at": "2026-11-14T11:17:57+07:00",
+    "model": "aisingapore/SEA-LION-E5-Embedding-600M",
+    "dimensions": 1024,
+    "max_seq_length": 512,
+    "device": "cpu",
+    "postgres": "16.16 (Debian 16.16-1.pgdg12+1)",
+    "pgvector": "0.8.7",
+    "versions": {
+      "python": "3.12.3",
+      "torch": "2.15.0+cpu",
+      "sentence_transformers": "5.7.0",
+      "psycopg": "3.3.8",
+      "pgvector_py": "0.4.x"
+    },
+    "pages": 81,
+    "pages_sha256": "8a34d91465374b3c9ce7d8d2b920a585a1db91a4ad5f5ee54b7d89edc196f92a",
+    "questions": 20,
+    "dev": 15,
+    "test": 5,
+    "cost_usd": 0,
+    "query_seconds_all_configs": 24.57,
+    "total_seconds": 410.89
+  },
+  "configs": {
+    "A": {
+      "index": "A",
+      "chunker": "fixed_size(size=500, overlap=50)",
+      "use_filter": false
+    },
+    "B": {
+      "index": "B",
+      "chunker": "by_paragraph(max_size=1000, min_size=200)",
+      "use_filter": false
+    },
+    "C": {
+      "index": "B",
+      "chunker": "same as B (shares index B)",
+      "use_filter": true
+    }
+  },
+  "chunk_stats": {
+    "A": {
+      "n": 232,
+      "chars_total": 99193,
+      "chars_min": 84,
+      "chars_p10": 197,
+      "chars_median": 496,
+      "chars_p90": 499,
+      "chars_max": 499,
+      "tokens_total": 29544,
+      "tokens_median": 132,
+      "tokens_max": 257,
+      "over_max_seq_len": 0,
+      "pages_covered": 81
+    },
+    "B": {
+      "n": 173,
+      "chars_total": 95298,
+      "chars_min": 19,
+      "chars_p10": 226,
+      "chars_median": 434,
+      "chars_p90": 1041,
+      "chars_max": 1227,
+      "tokens_total": 28564,
+      "tokens_median": 141,
+      "tokens_max": 424,
+      "over_max_seq_len": 0,
+      "pages_covered": 81
+    }
+  },
+  "ingest": {
+    "A": {
+      "chunks": 232,
+      "embedded": 232,
+      "reused": 0,
+      "pruned": 0,
+      "rows_in_db": 232,
+      "embed_seconds": 166.93,
+      "total_seconds": 168.14
+    },
+    "B": {
+      "chunks": 173,
+      "embedded": 173,
+      "reused": 0,
+      "pruned": 0,
+      "rows_in_db": 173,
+      "embed_seconds": 212.1,
+      "total_seconds": 212.68
+    }
+  },
+  "reingest_same_version": {
+    "A": {
+      "chunks": 232,
+      "embedded": 0,
+      "reused": 232,
+      "pruned": 0,
+      "rows_in_db": 232,
+      "embed_seconds": 0.0,
+      "total_seconds": 0.09
+    },
+    "B": {
+      "chunks": 173,
+      "embedded": 0,
+      "reused": 173,
+      "pruned": 0,
+      "rows_in_db": 173,
+      "embed_seconds": 0.0,
+      "total_seconds": 0.09
+    }
+  },
+  "metrics": {
+    "A": {
+      "dev": {
+        "hit@1": {
+          "num": 9,
+          "den": 15,
+          "rate": 0.6
+        },
+        "hit@3": {
+          "num": 14,
+          "den": 15,
+          "rate": 0.933
+        },
+        "gold_page@3": {
+          "num": 15,
+          "den": 15,
+          "rate": 1.0
+        },
+        "filter_compliant@3": {
+          "num": 1,
+          "den": 2,
+          "rate": 0.5
+        },
+        "misses": [
+          "q06"
+        ]
+      },
+      "test": {
+        "hit@1": {
+          "num": 1,
+          "den": 5,
+          "rate": 0.2
+        },
+        "hit@3": {
+          "num": 3,
+          "den": 5,
+          "rate": 0.6
+        },
+        "gold_page@3": {
+          "num": 4,
+          "den": 5,
+          "rate": 0.8
+        },
+        "filter_compliant@3": {
+          "num": 2,
+          "den": 2,
+          "rate": 1.0
+        },
+        "misses": [
+          "t01",
+          "t02"
+        ]
+      },
+      "all": {
+        "hit@1": {
+          "num": 10,
+          "den": 20,
+          "rate": 0.5
+        },
+        "hit@3": {
+          "num": 17,
+          "den": 20,
+          "rate": 0.85
+        },
+        "gold_page@3": {
+          "num": 19,
+          "den": 20,
+          "rate": 0.95
+        },
+        "filter_compliant@3": {
+          "num": 3,
+          "den": 4,
+          "rate": 0.75
+        },
+        "misses": [
+          "q06",
+          "t01",
+          "t02"
+        ]
+      }
+    },
+    "B": {
+      "dev": {
+        "hit@1": {
+          "num": 9,
+          "den": 15,
+          "rate": 0.6
+        },
+        "hit@3": {
+          "num": 13,
+          "den": 15,
+          "rate": 0.867
+        },
+        "gold_page@3": {
+          "num": 13,
+          "den": 15,
+          "rate": 0.867
+        },
+        "filter_compliant@3": {
+          "num": 1,
+          "den": 2,
+          "rate": 0.5
+        },
+        "misses": [
+          "q02",
+          "q11"
+        ]
+      },
+      "test": {
+        "hit@1": {
+          "num": 4,
+          "den": 5,
+          "rate": 0.8
+        },
+        "hit@3": {
+          "num": 4,
+          "den": 5,
+          "rate": 0.8
+        },
+        "gold_page@3": {
+          "num": 4,
+          "den": 5,
+          "rate": 0.8
+        },
+        "filter_compliant@3": {
+          "num": 2,
+          "den": 2,
+          "rate": 1.0
+        },
+        "misses": [
+          "t01"
+        ]
+      },
+      "all": {
+        "hit@1": {
+          "num": 13,
+          "den": 20,
+          "rate": 0.65
+        },
+        "hit@3": {
+          "num": 17,
+          "den": 20,
+          "rate": 0.85
+        },
+        "gold_page@3": {
+          "num": 17,
+          "den": 20,
+          "rate": 0.85
+        },
+        "filter_compliant@3": {
+          "num": 3,
+          "den": 4,
+          "rate": 0.75
+        },
+        "misses": [
+          "q02",
+          "q11",
+          "t01"
+        ]
+      }
+    },
+    "C": {
+      "dev": {
+        "hit@1": {
+          "num": 9,
+          "den": 15,
+          "rate": 0.6
+        },
+        "hit@3": {
+          "num": 13,
+          "den": 15,
+          "rate": 0.867
+        },
+        "gold_page@3": {
+          "num": 13,
+          "den": 15,
+          "rate": 0.867
+        },
+        "filter_compliant@3": {
+          "num": 2,
+          "den": 2,
+          "rate": 1.0
+        },
+        "misses": [
+          "q02",
+          "q11"
+        ]
+      },
+      "test": {
+        "hit@1": {
+          "num": 4,
+          "den": 5,
+          "rate": 0.8
+        },
+        "hit@3": {
+          "num": 4,
+          "den": 5,
+          "rate": 0.8
+        },
+        "gold_page@3": {
+          "num": 4,
+          "den": 5,
+          "rate": 0.8
+        },
+        "filter_compliant@3": {
+          "num": 2,
+          "den": 2,
+          "rate": 1.0
+        },
+        "misses": [
+          "t01"
+        ]
+      },
+      "all": {
+        "hit@1": {
+          "num": 13,
+          "den": 20,
+          "rate": 0.65
+        },
+        "hit@3": {
+          "num": 17,
+          "den": 20,
+          "rate": 0.85
+        },
+        "gold_page@3": {
+          "num": 17,
+          "den": 20,
+          "rate": 0.85
+        },
+        "filter_compliant@3": {
+          "num": 4,
+          "den": 4,
+          "rate": 1.0
+        },
+        "misses": [
+          "q02",
+          "q11",
+          "t01"
+        ]
+      }
+    }
+  }
+}
