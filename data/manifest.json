@@ -1,0 +1,768 @@
+{
+  "source_id": "sach-trang-tmdt-2023",
+  "title": "Sách trắng Thương mại điện tử Việt Nam năm 2023",
+  "publisher": "Cục Thương mại điện tử và Kinh tế số - Bộ Công Thương",
+  "source_path_or_url": "data/BCTMDT2023-file-31-1-pdf.pdf",
+  "publisher_site": "https://www.idea.gov.vn",
+  "download_url": "https://valoma.vn/wp-content/uploads/2024/05/BCTMDT2023-file-31-1-pdf.pdf?utm",
+  "license_or_permission": "Tài liệu công khai do Cục TMĐT và KTS phát hành; tr. 98 ghi 'Bản quyền thuộc về Cục Thương mại điện tử và Kinh tế số'. Không có giấy phép tái phân phối rõ ràng → chỉ dùng cho mục đích học tập; ưu tiên nộp URL thay vì file gốc.",
+  "accessed_at": "2026-11-14",
+  "accessed_at_note": "Lấy từ thời điểm file được lưu vào data/ (mtime), không phải ngày phát hành.",
+  "version_snapshot": {
+    "pdf_creation_date": "2024-01-31T10:21:45+07:00",
+    "pdf_creator": "Adobe InDesign 17.0 (Windows)",
+    "sha256": "4b7e4a29d5b7f33282f243116d2a2b59f1fb261b8fa76225f7788def2ccb430f",
+    "size_bytes": 8794000
+  },
+  "language": "vi",
+  "physical_pages": 100,
+  "page_numbering": "Số trang PDF trùng số trang in trên tài liệu.",
+  "counting_rule": "Đếm trang PDF có nội dung liên quan trích xuất được (pypdf 6.21.4, Unicode NFC, gộp khoảng trắng). Loại bìa, trang trắng, mục lục, danh mục viết tắt, trang ngăn chương chỉ có tiêu đề, trang thông tin xuất bản. Số ký tự tính sau chuẩn hóa của src/ingestion.py (đã bỏ header/footer lặp). Tr. 35–37 được tính nhờ OCR (xem known_issues).",
+  "counted_pages_total": 81,
+  "counted_chars_total": 91765,
+  "excluded_pages": {
+    "bia_va_trang_trong": [
+      1,
+      2,
+      38,
+      86,
+      97,
+      99,
+      100
+    ],
+    "muc_luc_va_viet_tat": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "trang_ngan_chuong_chi_co_tieu_de": [
+      9,
+      27,
+      39,
+      53,
+      67,
+      87
+    ],
+    "thong_tin_xuat_ban_co_ten_ca_nhan": [
+      98
+    ]
+  },
+  "sections": [
+    {
+      "section": "gioi_thieu",
+      "page_start": 3,
+      "page_end": 3
+    },
+    {
+      "section": "chuong_1",
+      "page_start": 9,
+      "page_end": 26
+    },
+    {
+      "section": "chuong_2",
+      "page_start": 27,
+      "page_end": 37
+    },
+    {
+      "section": "chuong_3",
+      "page_start": 39,
+      "page_end": 52
+    },
+    {
+      "section": "chuong_4",
+      "page_start": 53,
+      "page_end": 66
+    },
+    {
+      "section": "chuong_5",
+      "page_start": 67,
+      "page_end": 85
+    },
+    {
+      "section": "phu_luc",
+      "page_start": 87,
+      "page_end": 96
+    }
+  ],
+  "pages": [
+    {
+      "page_id": "sach-trang-tmdt-2023-p003",
+      "page": 3,
+      "section": "gioi_thieu",
+      "chars": 2079,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p010",
+      "page": 10,
+      "section": "chuong_1",
+      "chars": 871,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p011",
+      "page": 11,
+      "section": "chuong_1",
+      "chars": 1438,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p012",
+      "page": 12,
+      "section": "chuong_1",
+      "chars": 1525,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p013",
+      "page": 13,
+      "section": "chuong_1",
+      "chars": 538,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p014",
+      "page": 14,
+      "section": "chuong_1",
+      "chars": 306,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p015",
+      "page": 15,
+      "section": "chuong_1",
+      "chars": 1191,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p016",
+      "page": 16,
+      "section": "chuong_1",
+      "chars": 1370,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p017",
+      "page": 17,
+      "section": "chuong_1",
+      "chars": 734,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p018",
+      "page": 18,
+      "section": "chuong_1",
+      "chars": 1351,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p019",
+      "page": 19,
+      "section": "chuong_1",
+      "chars": 1319,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p020",
+      "page": 20,
+      "section": "chuong_1",
+      "chars": 2217,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p021",
+      "page": 21,
+      "section": "chuong_1",
+      "chars": 311,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p022",
+      "page": 22,
+      "section": "chuong_1",
+      "chars": 1076,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p023",
+      "page": 23,
+      "section": "chuong_1",
+      "chars": 1896,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p024",
+      "page": 24,
+      "section": "chuong_1",
+      "chars": 1377,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p025",
+      "page": 25,
+      "section": "chuong_1",
+      "chars": 993,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p026",
+      "page": 26,
+      "section": "chuong_1",
+      "chars": 727,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p028",
+      "page": 28,
+      "section": "chuong_2",
+      "chars": 694,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p029",
+      "page": 29,
+      "section": "chuong_2",
+      "chars": 736,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p030",
+      "page": 30,
+      "section": "chuong_2",
+      "chars": 1080,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p031",
+      "page": 31,
+      "section": "chuong_2",
+      "chars": 1069,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p032",
+      "page": 32,
+      "section": "chuong_2",
+      "chars": 738,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p033",
+      "page": 33,
+      "section": "chuong_2",
+      "chars": 849,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p034",
+      "page": 34,
+      "section": "chuong_2",
+      "chars": 728,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p035",
+      "page": 35,
+      "section": "chuong_2",
+      "chars": 3025,
+      "chart_heavy": true,
+      "ocr": true,
+      "extraction_mode": "layout",
+      "ocr_values": 30
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p036",
+      "page": 36,
+      "section": "chuong_2",
+      "chars": 2943,
+      "chart_heavy": true,
+      "ocr": true,
+      "extraction_mode": "layout",
+      "ocr_values": 30
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p037",
+      "page": 37,
+      "section": "chuong_2",
+      "chars": 2857,
+      "chart_heavy": true,
+      "ocr": true,
+      "extraction_mode": "layout",
+      "ocr_values": 29
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p040",
+      "page": 40,
+      "section": "chuong_3",
+      "chars": 903,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p041",
+      "page": 41,
+      "section": "chuong_3",
+      "chars": 411,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p042",
+      "page": 42,
+      "section": "chuong_3",
+      "chars": 1252,
+      "chart_heavy": true,
+      "extraction_mode": "layout",
+      "vertical_chart_pairs": 16
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p043",
+      "page": 43,
+      "section": "chuong_3",
+      "chars": 430,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p044",
+      "page": 44,
+      "section": "chuong_3",
+      "chars": 722,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p045",
+      "page": 45,
+      "section": "chuong_3",
+      "chars": 743,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p046",
+      "page": 46,
+      "section": "chuong_3",
+      "chars": 1953,
+      "chart_heavy": true,
+      "extraction_mode": "layout",
+      "vertical_chart_pairs": 15
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p047",
+      "page": 47,
+      "section": "chuong_3",
+      "chars": 2176,
+      "chart_heavy": true,
+      "extraction_mode": "layout",
+      "vertical_chart_pairs": 19
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p048",
+      "page": 48,
+      "section": "chuong_3",
+      "chars": 655,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p049",
+      "page": 49,
+      "section": "chuong_3",
+      "chars": 617,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p050",
+      "page": 50,
+      "section": "chuong_3",
+      "chars": 1824,
+      "chart_heavy": true,
+      "extraction_mode": "layout",
+      "vertical_chart_pairs": 15
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p051",
+      "page": 51,
+      "section": "chuong_3",
+      "chars": 1299,
+      "chart_heavy": true,
+      "extraction_mode": "layout",
+      "vertical_chart_pairs": 8
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p052",
+      "page": 52,
+      "section": "chuong_3",
+      "chars": 908,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p054",
+      "page": 54,
+      "section": "chuong_4",
+      "chars": 1095,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p055",
+      "page": 55,
+      "section": "chuong_4",
+      "chars": 893,
+      "chart_heavy": true,
+      "extraction_mode": "layout",
+      "vertical_chart_pairs": 8
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p056",
+      "page": 56,
+      "section": "chuong_4",
+      "chars": 560,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p057",
+      "page": 57,
+      "section": "chuong_4",
+      "chars": 358,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p058",
+      "page": 58,
+      "section": "chuong_4",
+      "chars": 938,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p059",
+      "page": 59,
+      "section": "chuong_4",
+      "chars": 666,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p060",
+      "page": 60,
+      "section": "chuong_4",
+      "chars": 901,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p061",
+      "page": 61,
+      "section": "chuong_4",
+      "chars": 1159,
+      "chart_heavy": true,
+      "extraction_mode": "layout",
+      "vertical_chart_pairs": 5
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p062",
+      "page": 62,
+      "section": "chuong_4",
+      "chars": 874,
+      "chart_heavy": true,
+      "extraction_mode": "layout",
+      "vertical_chart_pairs": 4
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p063",
+      "page": 63,
+      "section": "chuong_4",
+      "chars": 1068,
+      "chart_heavy": true,
+      "extraction_mode": "layout",
+      "vertical_chart_pairs": 6
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p064",
+      "page": 64,
+      "section": "chuong_4",
+      "chars": 692,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p065",
+      "page": 65,
+      "section": "chuong_4",
+      "chars": 899,
+      "chart_heavy": true,
+      "extraction_mode": "layout",
+      "vertical_chart_pairs": 6
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p066",
+      "page": 66,
+      "section": "chuong_4",
+      "chars": 1040,
+      "chart_heavy": true,
+      "extraction_mode": "layout",
+      "vertical_chart_pairs": 6
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p068",
+      "page": 68,
+      "section": "chuong_5",
+      "chars": 622,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p069",
+      "page": 69,
+      "section": "chuong_5",
+      "chars": 693,
+      "chart_heavy": true,
+      "extraction_mode": "layout",
+      "vertical_chart_pairs": 4
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p070",
+      "page": 70,
+      "section": "chuong_5",
+      "chars": 487,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p071",
+      "page": 71,
+      "section": "chuong_5",
+      "chars": 320,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p072",
+      "page": 72,
+      "section": "chuong_5",
+      "chars": 353,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p073",
+      "page": 73,
+      "section": "chuong_5",
+      "chars": 515,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p074",
+      "page": 74,
+      "section": "chuong_5",
+      "chars": 251,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p075",
+      "page": 75,
+      "section": "chuong_5",
+      "chars": 478,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p076",
+      "page": 76,
+      "section": "chuong_5",
+      "chars": 1214,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p077",
+      "page": 77,
+      "section": "chuong_5",
+      "chars": 532,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p078",
+      "page": 78,
+      "section": "chuong_5",
+      "chars": 1357,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p079",
+      "page": 79,
+      "section": "chuong_5",
+      "chars": 1112,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p080",
+      "page": 80,
+      "section": "chuong_5",
+      "chars": 499,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p081",
+      "page": 81,
+      "section": "chuong_5",
+      "chars": 546,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p082",
+      "page": 82,
+      "section": "chuong_5",
+      "chars": 490,
+      "chart_heavy": true,
+      "extraction_mode": "layout"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p083",
+      "page": 83,
+      "section": "chuong_5",
+      "chars": 1087,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p084",
+      "page": 84,
+      "section": "chuong_5",
+      "chars": 609,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p085",
+      "page": 85,
+      "section": "chuong_5",
+      "chars": 855,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p088",
+      "page": 88,
+      "section": "phu_luc",
+      "chars": 1326,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p089",
+      "page": 89,
+      "section": "phu_luc",
+      "chars": 1757,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p090",
+      "page": 90,
+      "section": "phu_luc",
+      "chars": 2397,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p091",
+      "page": 91,
+      "section": "phu_luc",
+      "chars": 2120,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p092",
+      "page": 92,
+      "section": "phu_luc",
+      "chars": 2193,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p093",
+      "page": 93,
+      "section": "phu_luc",
+      "chars": 2368,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p094",
+      "page": 94,
+      "section": "phu_luc",
+      "chars": 2131,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p095",
+      "page": 95,
+      "section": "phu_luc",
+      "chars": 2288,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    },
+    {
+      "page_id": "sach-trang-tmdt-2023-p096",
+      "page": 96,
+      "section": "phu_luc",
+      "chars": 2091,
+      "chart_heavy": false,
+      "extraction_mode": "plain"
+    }
+  ],
+  "known_issues": [
+    "Trang chart_heavy đọc bằng pypdf extraction_mode='layout': biểu đồ cột ngang và bảng giữ nhãn | số trên cùng dòng.",
+    "Biểu đồ cột đứng/nhóm: ghép nhãn–giá trị bằng toạ độ từ PyMuPDF (starter/src/chart_pairs.py), được 112 cặp trên 12 trang và nối vào cuối text trang. Đã kiểm tra bằng mắt 7 trang (42, 47, 50, 51, 55, 63, 65): đúng toàn bộ.",
+    "Ghép chưa được, đã ghi log và không thêm vào text: tr. 49, 58, 61 (số giá trị trên mỗi nhãn không đồng đều).",
+    "Biểu đồ tròn (ví dụ tr. 48, 50, 54–56, 63) vẫn chưa ghép được: chú giải nối với lát cắt bằng màu, không bằng vị trí.",
+    "Tiêu đề trục xoay dọc bị chế độ layout bỏ qua; đã lấy lại bằng PyMuPDF và thêm dòng '[Tiêu đề trục dọc]'.",
+    "Mâu thuẫn trong nguồn: tr. 3 ghi 'gần 7.500 doanh nghiệp', tr. 54 ghi '5.531 doanh nghiệp'.",
+    "Header lặp ('SÁCH TRẮNG THƯƠNG MẠI ĐIỆN TỬ VIỆT NAM NĂM 2023' / 'www.idea.gov.vn' + số trang) đã được loại khi chuẩn hóa.",
+    "pypdf cảnh báo thiếu fontTools với font MyriadPro CFF; đối chiếu với poppler cho thấy không làm sai chữ tiếng Việt.",
+    "Tr. 35–37: số liệu vẽ bằng vector, không có lớp text → OCR bằng Tesseract 5.3.4 (vie+eng có sẵn; chỉ dùng whitelist chữ số) trên từng ô số, vị trí/series lấy từ hình vẽ PDF (starter/src/ocr_charts.py). Kiểm chứng toàn bộ 90 giá trị với gold chép tay (starter/results/ocr_gold_p35_37.json, scripts/check_ocr.py): 89 đúng, 0 sai, 1 bị từ chối (Singapore 2023 -3%, số bị đường biểu đồ đè). Lưu ý: tham số OCR được chỉnh trên chính 3 trang này."
+  ]
+}

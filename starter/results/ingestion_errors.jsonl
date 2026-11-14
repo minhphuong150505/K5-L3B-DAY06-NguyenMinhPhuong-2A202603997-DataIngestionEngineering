@@ -1,0 +1,43 @@
+{"level": "warning", "code": "missing_fonttools", "page": 1, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 1, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 1, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 1, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "info", "code": "empty_or_near_empty_page", "page": 2, "detail": "0 chars after cleanup"}
+{"level": "warning", "code": "missing_fonttools", "page": 19, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 30, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 30, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 31, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 31, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 32, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 32, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 33, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 33, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 34, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 34, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 35, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "info", "code": "empty_or_near_empty_page", "page": 38, "detail": "0 chars after cleanup"}
+{"level": "warning", "code": "pypdf_warning", "page": 42, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 45, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 46, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 47, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 49, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 50, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 51, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 55, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 58, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 61, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 62, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 63, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 65, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "pypdf_warning", "page": 73, "detail": "Rotated text discovered. Output will be incomplete."}
+{"level": "warning", "code": "missing_fonttools", "page": 77, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "info", "code": "empty_or_near_empty_page", "page": 86, "detail": "0 chars after cleanup"}
+{"level": "info", "code": "empty_or_near_empty_page", "page": 87, "detail": "7 chars after cleanup"}
+{"level": "info", "code": "empty_or_near_empty_page", "page": 97, "detail": "0 chars after cleanup"}
+{"level": "info", "code": "empty_or_near_empty_page", "page": 99, "detail": "0 chars after cleanup"}
+{"level": "warning", "code": "missing_fonttools", "page": 100, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "missing_fonttools", "page": 100, "detail": "fontTools is required to fully parse the encoding of a CFF Type1 font"}
+{"level": "warning", "code": "chart_pairing_unresolved", "page": 49, "detail": "row y=356 [Trực tiếp trên website quốc tế, Thông qua website Việt Nam mua hộ hàng quốc tế, Thông qua người bán trung gian trên mạng] values/label=[3, 4, 4]"}
+{"level": "warning", "code": "chart_pairing_unresolved", "page": 58, "detail": "row y=496 [Qua nhân sự phụ trách tương tác trực tiếp, Qua thông tin liên hệ khách hàng để lại, Qua chat bot tự động, Hình thức khác] values/label=[1, 1, 2, 2]"}
+{"level": "warning", "code": "chart_pairing_unresolved", "page": 61, "detail": "row y=450 [Thấp, Trung bình, Cao] values/label=[4, 0, 4]"}
+{"level": "warning", "code": "ocr_value_rejected", "page": 37, "detail": "7. Singapore: unexpected token '-%'"}

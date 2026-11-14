@@ -1,0 +1,47 @@
+{
+  "source_id": "sach-trang-tmdt-2023",
+  "reader": "pypdf 6.21.4",
+  "ocr": "Tesseract cho tr. có cờ ocr trong manifest (số liệu biểu đồ vẽ bằng vector); các trang khác dùng lớp text",
+  "ocr_values": {
+    "35": 30,
+    "36": 30,
+    "37": 29
+  },
+  "normalization": "Unicode NFC, bỏ ký tự vô hình, gộp khoảng trắng trong dòng, giữ xuống dòng, bỏ header/footer lặp",
+  "physical_pages": 100,
+  "counted_pages": 81,
+  "counted_chars": 91765,
+  "empty_pages": [
+    2,
+    38,
+    86,
+    87,
+    97,
+    99
+  ],
+  "layout_mode_pages": 49,
+  "vertical_chart_pairs": {
+    "42": 16,
+    "46": 15,
+    "47": 19,
+    "50": 15,
+    "51": 8,
+    "55": 8,
+    "61": 5,
+    "62": 4,
+    "63": 6,
+    "65": 6,
+    "66": 6,
+    "69": 4
+  },
+  "benchmark_evidence_found": "20/20",
+  "issues_by_code": {
+    "missing_fonttools": 19,
+    "empty_or_near_empty_page": 6,
+    "pypdf_warning": 14,
+    "chart_pairing_unresolved": 3,
+    "ocr_value_rejected": 1
+  },
+  "errors": 0,
+  "elapsed_seconds": 51.03
+}

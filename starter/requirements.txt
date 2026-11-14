@@ -2,3 +2,10 @@
 psycopg[binary]==3.3.8
 pypdf>=5,<7
 python-dotenv>=1,<2
+# Embedding: aisingapore/SEA-LION-E5-Embedding-600M (local, 1024 dims).
+# CPU-only torch: pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.4
+sentence-transformers>=5,<6
+pgvector>=0.4,<0.5
+numpy>=1.26
+pymupdf==1.26.5

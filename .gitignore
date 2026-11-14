@@ -8,3 +8,7 @@ __pycache__/
 .DS_Store
 .pytest_cache/
 *.sqlite
+
+# Source PDF: no explicit redistribution licence (see data/manifest.json) -> submit URL only
+data/*.pdf
+.vscode/
